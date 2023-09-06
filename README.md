@@ -32,3 +32,5 @@ My name is Mladen Krivaćević. I'm a software engineer who's always on the lear
 - Neuroscience (I'm a beginner; currently not learning anything in this area but I plan to in the future)
 - Philosophy (I'm a beginner; currently reading about Logic and Epistemology)
 - Psychology (I'm a beginner; currently reading a bit about Cognitive Psychology)
+
+- Education (I'm the founder of an NGO called Axiom, which is a non-profit organization that aims to help students improve their practical skills and knowledge in the fields of Natural and Technical Sciences, like Physics, Chemistry, Biology, Computer Science, Engineering etc.)
