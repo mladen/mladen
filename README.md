@@ -1,6 +1,6 @@
 # Hi there!
 
-My name is Mladen Krivaćević. I'm a software engineer who's always on the learning curve, a former student (dropout) of the Faculty of Electrical Engineering, a budding writer, an occasional gamer, a father, a husband, a hopefully good son, a brother, a friend, a friendly neighbor, and a citizen. In short, I'm a full-stack human being. Now that I've taken a stab at humor and probably missed the mark, let's get just a smidge more serious—but not too much.
+My name is Mladen Krivaćević. I'm a software engineer who's always on the learning curve, a former student (dropout) of the Faculty of Electrical Engineering, a budding writer, an occasional gamer, a father, a husband, a hopefully good son, a brother, a friend, a friendly neighbor, and a citizen. In short, I'm a full-stack human being. Now that I've taken a stab at humor and probably missed the mark, let's get just a little bit more serious—but not too much.
 
 ## These are the programming languages I use the most at the moment:
 
@@ -13,7 +13,7 @@ My name is Mladen Krivaćević. I'm a software engineer who's always on the lear
 - C++ (I'm a beginner)
 - Docker
 - SQL
-- Electronics (I'm a beginner; playing around with Arduino using the Elegoo's The Most Complete Starter Kit)
+- Electronics (I'm a beginner; playing around with Arduino using the Elegoo's "The Most Complete Starter Kit")
 
 ## Here are the languages+technologies I'm planning to learn in the future:
 
@@ -34,3 +34,9 @@ My name is Mladen Krivaćević. I'm a software engineer who's always on the lear
 - Psychology (I'm a beginner; currently reading a bit about Cognitive Psychology)
 
 - Education (I'm the founder of an NGO called Axiom, which is a non-profit organization that aims to help students improve their practical skills and knowledge in the fields of Natural and Technical Sciences, like Physics, Chemistry, Biology, Computer Science, Engineering etc.)
+
+```
+Important:
+
+If you share similar interests and would like to discuss these fascinating areas (or even collaborate on a project) feel free to contact me. I'd be delighted to speak with you. My email is mladen dot krivacevic at <the biggest search engine> dot com.
+```
