@@ -35,8 +35,6 @@ My name is Mladen Krivaćević. I'm a software engineer who's always on the lear
 
 - Education (I'm the founder of an NGO called Axiom, which is a non-profit organization that aims to help students improve their practical skills and knowledge in the fields of Natural and Technical Sciences, like Physics, Chemistry, Biology, Computer Science, Engineering etc.)
 
-```
-Important:
-
-If you share similar interests and would like to discuss these fascinating areas (or even collaborate on a project) feel free to contact me. I'd be delighted to speak with you. My email is mladen dot krivacevic at <the biggest search engine> dot com.
-```
+> Important:
+>
+> If you share similar interests and would like to discuss these fascinating areas (or even collaborate on a project) feel free to contact me. I'd be delighted to speak with you. My email is mladen dot krivacevic at <the biggest search engine> dot com.
