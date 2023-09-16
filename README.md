@@ -1,12 +1,26 @@
 # Hi there!
 
-My name is Mladen Krivaćević. I'm a software engineer who's always on the learning curve, a former student (dropout) of the Faculty of Electrical Engineering, a budding writer, an occasional gamer, a father, a husband, a hopefully good son, a brother, a friend, a friendly neighbor, and a citizen. In short, I'm a full-stack human being. Now that I've taken a stab at humor and probably missed the mark, let's get just a little bit more serious—but not too much.
+My name is Mladen Krivaćević.
 
-## These are the programming languages I use the most at the moment:
+I'm a human being with an insatiable thirst for knowledge ! ... (dramatic pause for emphasis!)
+
+Professionally, I navigate the world as a software engineer.
+
+Regarding my educational journey, I once enrolled in the Faculty of Electrical Engineering. Although I was close to obtaining my BSc, I chose a different direction (a diplomatic way to say I dropped out)—sometimes I wonder if I should've taken that detour earlier (actually I know the answer to this one :smirk: ).
+
+Outside of coding, I have a penchant for writing and occasionally dive into gaming, though that's become quite rare these days.
+
+I wear many hats: a father, husband, an aspiring good son, brother, friend, a friendly neighborly, and a responsible citizen.
+
+Oh, and here's a joke for you: Why did the programmer quit his job? He didn't get arrays (a raise)! Ha! Hahahaha!
+
+Now that I've taken a stab at humor and probably missed the mark, let's get just a little bit more serious—but not too much.
+
+## These are the programming languages `I use the most at the moment`:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mladen&layout=compact)
 
-## Here are the languages+technologies I'm currently (re)learning:
+## Here are the languages+technologies I'm `currently (re)learning`:
 
 - Python
 - C
@@ -15,22 +29,60 @@ My name is Mladen Krivaćević. I'm a software engineer who's always on the lear
 - SQL
 - Electronics (I'm a beginner; playing around with Arduino using the Elegoo's "The Most Complete Starter Kit")
 
-## Here are the languages+technologies I'm planning to learn in the future:
+## Here are the languages+technologies I'm `planning to learn` in the future (at least some of them):
 
 - Go
 - Rust
+- Zig
+- Julia
 
-## CS areas I'm interested in:
+## CS areas I'm `interested` in\* (field titles taken from [Wikipedia](https://en.wikipedia.org/wiki/Computer_science)):
 
-- Data Science/Machine Learning/Artificial Intelligence
+- Computational science, finance and engineering
+  - Computational physics
+  - Computational chemistry
+  - Bioinformatics
+  - Neuroinformatics
+  - Medical informatics
+- Image and sound processing
+  - FFT algorithms
+  - Image processing
+  - Speech recognition
+  - Data compression
+  - Medical image computing
+  - Speech synthesis
+- Computer graphics and visualization
+  - 2D computer graphics
+  - Computer animation
+  - Rendering
+  - Mixed reality
+  - Virtual reality
+- Theory of computation
+  - Quantum computing theory
+- Data structures and algorithms
+  - Algorithm design
+  - Data structures
+- Artificial Intelligence
+  - Computational learning theory
+  - Computer vision
+  - Neural networks
+  - Natural language processing
+  - Computational game theory
+  - Evolutionary computation
+  - Autonomic computing
+  - Pattern recognition
+  - Robotics
+  - Swarm intelligence
 
-## Other areas I'm **especially** interested in:
+\*the list is not exhaustive :sweat_smile:
+
+## Other areas I'm `especially interested` in:
 
 - Mathematics (I'm a beginner; currently re-learning Linear Algebra; soon I will be re-learning Calculus, Statistics, Probability and Logic)
 - Physics (I'm a beginner; currently re-learning Classical Mechanics by reading the Feynman Lectures on Physics but also playing around with physics simulations)
 - Chemistry + Biology (I'm a beginner; especially the intersection of the two, which is Biochemistry; currently not learning anything in these areas but I plan to in the future)
 - Neuroscience (I'm a beginner; currently not learning anything in this area but I plan to in the future)
-- Philosophy (I'm a beginner; currently reading about Logic and Epistemology)
+- Philosophy (I'm a beginner; currently reading a bit about Logic and Epistemology)
 - Psychology (I'm a beginner; currently reading a bit about Cognitive Psychology)
 
 - Education (I'm the founder of an NGO called Axiom, which is a non-profit organization that aims to help students improve their practical skills and knowledge in the fields of Natural and Technical Sciences, like Physics, Chemistry, Biology, Computer Science, Engineering etc.)
