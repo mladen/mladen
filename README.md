@@ -10,11 +10,9 @@ Regarding my educational journey, I once enrolled in the Faculty of Electrical E
 
 Outside of coding, I have a penchant for writing and occasionally dive into gaming, though that's become quite rare these days.
 
-I wear many hats: a father, husband, an aspiring good son, brother, friend, a friendly neighborly, and a responsible citizen.
+I wear many hats: a father, husband, an aspiring good son, brother, friend, a helpful and friendly neighbour, and a responsible citizen.
 
-Oh, and here's a joke for you: Why did the programmer quit his job? He didn't get arrays (a raise)! Ha! Hahahaha!
-
-Now that I've taken a stab at humor and probably missed the mark, let's get just a little bit more serious—but not too much.
+Now, let me tell you about my interests.
 
 ## These are the programming languages `I use the most at the moment`:
 
