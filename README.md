@@ -29,12 +29,17 @@ Now, let me tell you about my interests.
 
 ## Here are the languages+technologies I'm `planning to learn` in the future (at least some of them):
 
+Most likely:
+
 - Rust (for systems programming, game development and web development)
 - Zig (for systems programming)
 - Julia (for scientific computing)
 
-- Mojo? (for AI)
-- Go? (for systems programming)
+Maybe:
+
+- Mojo (for AI)
+- Go (for systems programming)
+- Haskell (for functional programming)
 
 ## CS areas I'm `interested` in\* (field titles taken from [Wikipedia](https://en.wikipedia.org/wiki/Computer_science)):
 
