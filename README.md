@@ -83,7 +83,7 @@ Maybe:
 
 ## Other areas I'm `especially interested` in:
 
-- Mathematics (I'm a beginner; currently re-learning Linear Algebra; soon I will be re-learning Calculus, Statistics, Probability and Logic)
+- Mathematics (I'm a beginner; currently re-learning Linear Algebra - check out the [first 10 pages of my self-learning notebook](https://drive.google.com/file/d/1xnGnLHTG0R2OPtLmADXhx_KDQZT7r5ZS/view?usp=drive_link); soon I will be re-learning Calculus, Statistics, Probability and Logic)
 - Physics (I'm a beginner; currently re-learning Classical Mechanics by reading the Feynman Lectures on Physics but also playing around with physics simulations)
 - Chemistry + Biology (I'm a beginner; especially the intersection of the two, which is Biochemistry; currently not learning anything in these areas but I plan to in the future)
 - Neuroscience (I'm a beginner; currently not learning anything in this area but I plan to in the future)
