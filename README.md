@@ -12,7 +12,51 @@ When considering my career aspirations, I am drawn to fields that offer the oppo
 
 Now, let me tell you about my interests.
 
-## These are the programming languages `I use/like the most at the moment`:
+## These are the programming languages `I use the most at the moment`:
+
+<table>
+  <tbody>
+    <tr>
+        <td align="center" height="121" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48" style="max-width: 100%;"/>
+        <br><strong>Javascript</strong>
+    </td>
+    <td align="center" height="121" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="48" height="48" alt="TypeScript" style="max-width: 100%;">
+      <br><strong>TypeScript</strong>
+    </td>
+    <td align="center" height="121" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="VueJS" style="max-width: 100%;">
+      <br><strong>Vue</strong>
+    </td>
+    <td align="center" height="121" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="javascript" width="48" height="48" style="max-width: 100%;"/>
+        <br><strong>PHP</strong>
+    </td>
+    <td align="center" height="121" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="javascript" width="48" height="48" style="max-width: 100%;"/>
+        <br><strong>Laravel</strong>
+    </td>
+    <td align="center" height="121" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="React" style="max-width: 100%;">
+      <br><strong>Tailwind</strong>
+    </td>
+     <td align="center" height="121" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" height="48" alt="VueJS" style="max-width: 100%;">
+      <br><strong>SASS</strong>
+    </td>
+    <td align="center" height="121" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" style="max-width: 100%;">
+      <br><strong>MySQL</strong>
+    </td>
+    <td align="center" height="121" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" style="max-width: 100%;">
+      <br><strong>Docker</strong>
+    </td>
+  </tr>
+</tbody></table>
+
+## Here's an overview of my GitHub stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mladen&layout=compact)
 
