@@ -94,27 +94,74 @@ Now, let me tell you about my interests.
       - C++ (for systems programming and game development; not planning to go too deep here)<br>
       - Docker (for containerization)<br>
       - SQL + MySQL (for databases and data science)<br>
-      - Electronics + Arduino (I'm a beginner; playing around with Arduino using the Elegoo's "The Most Complete Starter Kit")
+      - Electronics + Arduino (I'm a beginner; for now I'm playing around with Arduino using the Elegoo's "The Most Complete Starter Kit" - it's really fun!)
     </td>
 </tbody></table>
+
+## Here are the languages+technologies I'm `thinking about learning` in the near future (at least some of them):
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="3" align="center">Most likely</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" height="121" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="javascript" width="48" height="48" style="max-width: 100%;"/>
+        <br><strong>Rust</strong>
+      </td>
+      <td align="center" height="121" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zig/zig-original.svg" alt="javascript" width="48" height="48" style="max-width: 100%;"/>
+        <br><strong>Zig</strong>
+      </td>
+      <td align="center" height="121" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="javascript" width="48" height="48" style="max-width: 100%;"/>
+        <br><strong>Julia</strong>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3">
+        - Rust (for systems programming, game development and web development)<br>
+        - Zig (for systems programming)<br>
+        - Julia (for scientific computing)
+      </td>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="3" align="center">Maybe</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" height="121" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="javascript" width="48" height="48" style="max-width: 100%;"/>
+        <br><strong>Go</strong>
+      </td>
+      <td align="center" height="121" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="javascript" width="48" height="48" style="max-width: 100%;"/>
+        <br><strong>Haskell</strong>
+      </td>
+      <td align="center" height="121" width="100">
+        <strong>Mojo</strong>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3">
+        - Go (for systems programming)<br>
+        - Haskell (for functional programming)<br>
+        - Mojo (for AI)
+      </td>
+  </tbody>
+</table>
 
 ## Here's an overview of my GitHub stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mladen&layout=compact)
-
-## Here are the languages+technologies I'm `planning to learn` in the future (at least some of them):
-
-Most likely:
-
-- Rust (for systems programming, game development and web development)
-- Zig (for systems programming)
-- Julia (for scientific computing)
-
-Maybe:
-
-- Mojo (for AI)
-- Go (for systems programming)
-- Haskell (for functional programming)
 
 ## CS areas I'm `interested` in\* (field titles taken from [Wikipedia](https://en.wikipedia.org/wiki/Computer_science)):
 
