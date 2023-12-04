@@ -19,7 +19,7 @@ When considering my career aspirations, I am drawn to fields that offer the oppo
 
 Now, let me tell you about my interests.
 
-## :man_technologist: These are the programming languages and tools I use the most - at the moment:
+## These are the programming languages and tools I use the most - at the moment:
 
 <table>
   <tbody>
@@ -110,7 +110,7 @@ Now, let me tell you about my interests.
     </td>
   </tr>
   <tr>
-    <td colspan="6">
+    <td colspan="8">
       - Python (for DS, ML, AI and web development) + Numpy + Pandas (for DS, ML, AI)<br>
       - C (for systems programming, game development and embedded systems)<br>
       - C++ (for systems programming and game development; not planning to go too deep here)<br>
@@ -239,3 +239,5 @@ Now, let me tell you about my interests.
 > Important:
 >
 > If you share similar interests and would like to discuss these fascinating areas (or even collaborate on a project) feel free to contact me. I'd be delighted to speak with you. My email is mladen dot krivacevic at <the biggest search engine> dot com.
+
+> p.s. Yes, I HAVE used tables in Markdown for styling. It was easier than to write CSS. I'll fix it later :smile:. Also, I'm open to suggestions.
