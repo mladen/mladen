@@ -17,57 +17,90 @@ Now, let me tell you about my interests.
 <table>
   <tbody>
     <tr>
+      <td align="center" height="121" width="100">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="javascript" width="48" height="48" style="max-width: 100%;"/>
+          <br><strong>PHP</strong>
+      </td>
+      <td align="center" height="121" width="100">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="javascript" width="48" height="48" style="max-width: 100%;"/>
+          <br><strong>Laravel</strong>
+      </td>
+      <td align="center" height="121" width="100">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48" style="max-width: 100%;"/>
+          <br><strong>Javascript</strong>
+      </td>
+      <td align="center" height="121" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="48" height="48" alt="TypeScript" style="max-width: 100%;">
+        <br><strong>TypeScript</strong>
+      </td>
+      <td align="center" height="121" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="VueJS" style="max-width: 100%;">
+        <br><strong>Vue</strong>
+      </td>
+      <td align="center" height="121" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="React" style="max-width: 100%;">
+        <br><strong>Tailwind</strong>
+      </td>
+      <td align="center" height="121" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" height="48" alt="VueJS" style="max-width: 100%;">
+        <br><strong>SASS</strong>
+      </td>
+      <td align="center" height="121" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" style="max-width: 100%;">
+        <br><strong>MySQL</strong>
+      </td>
+      <td align="center" height="121" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" style="max-width: 100%;">
+        <br><strong>Docker</strong>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+## Here are the languages+technologies I'm `currently (re)learning mostly into details (except for C++)`:
+
+<table>
+  <tbody>
+    <tr>
         <td align="center" height="121" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48" style="max-width: 100%;"/>
-        <br><strong>Javascript</strong>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="javascript" width="48" height="48" style="max-width: 100%;"/>
+        <br><strong>Python</strong>
     </td>
     <td align="center" height="121" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="48" height="48" alt="TypeScript" style="max-width: 100%;">
-      <br><strong>TypeScript</strong>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="javascript" width="48" height="48" style="max-width: 100%;"/>
+        <br><strong>C</strong>
     </td>
     <td align="center" height="121" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="VueJS" style="max-width: 100%;">
-      <br><strong>Vue</strong>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="javascript" width="48" height="48" style="max-width: 100%;"/>
+        <br><strong>C++</strong>
     </td>
     <td align="center" height="121" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="javascript" width="48" height="48" style="max-width: 100%;"/>
-        <br><strong>PHP</strong>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="javascript" width="48" height="48" style="max-width: 100%;"/>
+        <br><strong>Docker</strong>
     </td>
     <td align="center" height="121" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="javascript" width="48" height="48" style="max-width: 100%;"/>
-        <br><strong>Laravel</strong>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="javascript" width="48" height="48" style="max-width: 100%;"/>
+        <br><strong>MySQL</strong>
     </td>
     <td align="center" height="121" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="React" style="max-width: 100%;">
-      <br><strong>Tailwind</strong>
-    </td>
-     <td align="center" height="121" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" height="48" alt="VueJS" style="max-width: 100%;">
-      <br><strong>SASS</strong>
-    </td>
-    <td align="center" height="121" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" style="max-width: 100%;">
-      <br><strong>MySQL</strong>
-    </td>
-    <td align="center" height="121" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" style="max-width: 100%;">
-      <br><strong>Docker</strong>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="javascript" width="48" height="48" style="max-width: 100%;"/>
+        <br><strong>Arduino</strong>
     </td>
   </tr>
+  <tr>
+    <td colspan="6">
+      - Python (for data science, machine learning and web development)<br>
+      - C (for systems programming, game development and embedded systems)<br>
+      - C++ (for systems programming and game development; not planning to go too deep here)<br>
+      - Docker (for containerization)<br>
+      - SQL (for databases and data science)<br>
+      - Electronics (I'm a beginner; playing around with Arduino using the Elegoo's "The Most Complete Starter Kit")
+    </td>
 </tbody></table>
 
 ## Here's an overview of my GitHub stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mladen&layout=compact)
-
-## Here are the languages+technologies I'm `currently (re)learning`:
-
-- Python (for data science, machine learning and web development)
-- C (for systems programming, game development and embedded systems)
-- C++ (for systems programming and game development))
-- Docker (for containerization)
-- SQL (for databases and data science)
-- Electronics (I'm a beginner; playing around with Arduino using the Elegoo's "The Most Complete Starter Kit")
 
 ## Here are the languages+technologies I'm `planning to learn` in the future (at least some of them):
 
