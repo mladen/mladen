@@ -4,13 +4,11 @@ My name is Mladen Krivaćević.
 
 I'm a human being with an insatiable thirst for knowledge ! ... (dramatic pause for emphasis!)
 
-Professionally, I navigate the world as a software engineer.
+I am deeply passionate about learning and currently apply my skills as a software engineer. My academic background includes studying electrical engineering, a path I almost completed before choosing to explore different avenues. Outside of my professional life, I indulge in creative pursuits like writing and occasionally gaming, though these hobbies have become less frequent.
 
-Regarding my educational journey, I once enrolled in the Faculty of Electrical Engineering. Although I was close to obtaining my BSc, I chose a different direction (a diplomatic way to say I dropped out)—sometimes I wonder if I should've taken that detour earlier (actually I know the answer to this one :smirk: ).
+My personal life is filled with diverse roles: I'm a father, husband, an aspiring good son, brother, friend, a helpful and friendly neighbour, and a responsible citizen., each bringing its own set of joys and challenges.
 
-Outside of coding, I have a penchant for writing and occasionally dive into gaming, though that's become quite rare these days.
-
-I wear many hats: a father, husband, an aspiring good son, brother, friend, a helpful and friendly neighbour, and a responsible citizen.
+When considering my career aspirations, I am drawn to fields that offer the opportunity to **contribute positively to the world**. I am particularly interested in areas such as biology, physics, mathematics, and biotechnology, where the potential for beneficial impact is immense. Conversely, I consciously avoid industries like gambling and pornography, which do not align with my personal and professional values.
 
 Now, let me tell you about my interests.
 
