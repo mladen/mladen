@@ -1,4 +1,4 @@
-# Hi there!
+# Hi there! :wave:
 
 My name is Mladen Krivaćević.
 
@@ -10,23 +10,30 @@ My personal life is filled with diverse roles: I'm a father, husband, an aspirin
 
 When considering my career aspirations, I am drawn to fields that offer the opportunity to **contribute positively to the world**. I am particularly interested in areas such as biology, physics, mathematics, and biotechnology, where the potential for beneficial impact is immense. Conversely, I consciously avoid industries like gambling and pornography, which do not align with my personal and professional values.
 
+<!-- Linkedin icon with my link https://www.linkedin.com/in/mladenk/ -->
+<a href="https://www.linkedin.com/in/mladenk/">
+  <img align="left" alt="Mladen Krivaćević | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
 Now, let me tell you about my interests.
 
-## These are the programming languages `I use the most at the moment`:
+## :man_technologist: These are the programming languages and tools I use the most - at the moment:
 
 <table>
   <tbody>
     <tr>
       <td align="center" height="121" width="100">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="javascript" width="48" height="48" style="max-width: 100%;"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="max-width: 100%;"/>
           <br><strong>PHP</strong>
       </td>
       <td align="center" height="121" width="100">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="javascript" width="48" height="48" style="max-width: 100%;"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="48" height="48" style="max-width: 100%;"/>
           <br><strong>Laravel</strong>
       </td>
       <td align="center" height="121" width="100">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48" style="max-width: 100%;"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="max-width: 100%;"/>
           <br><strong>Javascript</strong>
       </td>
       <td align="center" height="121" width="100">
@@ -38,16 +45,23 @@ Now, let me tell you about my interests.
         <br><strong>Vue</strong>
       </td>
       <td align="center" height="121" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="React" style="max-width: 100%;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" style="max-width: 100%;">
         <br><strong>Tailwind</strong>
       </td>
       <td align="center" height="121" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" height="48" alt="VueJS" style="max-width: 100%;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" height="48" alt="SASS" style="max-width: 100%;">
         <br><strong>SASS</strong>
       </td>
       <td align="center" height="121" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" style="max-width: 100%;">
         <br><strong>MySQL</strong>
+      </td>
+    </tr>
+    <tr>
+      <!-- Linux icon -->
+      <td align="center" height="121" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" style="max-width: 100%;">
+        <br><strong>Linux</strong>
       </td>
       <td align="center" height="121" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" style="max-width: 100%;">
@@ -57,39 +71,47 @@ Now, let me tell you about my interests.
   </tbody>
 </table>
 
-## Here are the languages+technologies I'm `currently (re)learning mostly into details (except for C++)`:
+## Here are the languages and technologies I'm currently either (re)learning or improving my skills in (although you could argue that I'm always learning something new in all of the previously mentioned languages and technologies too)
 
 <table>
   <tbody>
     <tr>
         <td align="center" height="121" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="javascript" width="48" height="48" style="max-width: 100%;"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="max-width: 100%;"/>
         <br><strong>Python</strong>
     </td>
     <td align="center" height="121" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="javascript" width="48" height="48" style="max-width: 100%;"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="Numpy" width="48" height="48" style="max-width: 100%;"/>
+        <br><strong>Numpy</strong>
+    </td>
+    <td align="center" height="121" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48" style="max-width: 100%;"/>
+        <br><strong>Pandas</strong>
+    </td>
+    <td align="center" height="121" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="48" height="48" style="max-width: 100%;"/>
         <br><strong>C</strong>
     </td>
     <td align="center" height="121" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="javascript" width="48" height="48" style="max-width: 100%;"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="max-width: 100%;"/>
         <br><strong>C++</strong>
     </td>
     <td align="center" height="121" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="javascript" width="48" height="48" style="max-width: 100%;"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="max-width: 100%;"/>
         <br><strong>Docker</strong>
     </td>
     <td align="center" height="121" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="javascript" width="48" height="48" style="max-width: 100%;"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="max-width: 100%;"/>
         <br><strong>MySQL</strong>
     </td>
     <td align="center" height="121" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="javascript" width="48" height="48" style="max-width: 100%;"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Electronics + Arduino" width="48" height="48" style="max-width: 100%;"/>
         <br><strong>Arduino</strong>
     </td>
   </tr>
   <tr>
     <td colspan="6">
-      - Python (for data science, machine learning and web development)<br>
+      - Python (for DS, ML, AI and web development) + Numpy + Pandas (for DS, ML, AI)<br>
       - C (for systems programming, game development and embedded systems)<br>
       - C++ (for systems programming and game development; not planning to go too deep here)<br>
       - Docker (for containerization)<br>
@@ -98,7 +120,7 @@ Now, let me tell you about my interests.
     </td>
 </tbody></table>
 
-## Here are the languages+technologies I'm `thinking about learning` in the near future (at least some of them):
+## Here are the languages+technologies I'm _thinking about learning_ in the near future (at least some of them):
 
 <table>
   <thead>
@@ -109,15 +131,15 @@ Now, let me tell you about my interests.
   <tbody>
     <tr>
       <td align="center" height="121" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="javascript" width="48" height="48" style="max-width: 100%;"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="48" height="48" style="max-width: 100%;"/>
         <br><strong>Rust</strong>
       </td>
       <td align="center" height="121" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zig/zig-original.svg" alt="javascript" width="48" height="48" style="max-width: 100%;"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zig/zig-original.svg" alt="Zig" width="48" height="48" style="max-width: 100%;"/>
         <br><strong>Zig</strong>
       </td>
       <td align="center" height="121" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="javascript" width="48" height="48" style="max-width: 100%;"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="Julia" width="48" height="48" style="max-width: 100%;"/>
         <br><strong>Julia</strong>
       </td>
     </tr>
@@ -139,11 +161,11 @@ Now, let me tell you about my interests.
   <tbody>
     <tr>
       <td align="center" height="121" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="javascript" width="48" height="48" style="max-width: 100%;"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="48" height="48" style="max-width: 100%;"/>
         <br><strong>Go</strong>
       </td>
       <td align="center" height="121" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="javascript" width="48" height="48" style="max-width: 100%;"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="Haskell" width="48" height="48" style="max-width: 100%;"/>
         <br><strong>Haskell</strong>
       </td>
       <td align="center" height="121" width="100">
@@ -163,7 +185,7 @@ Now, let me tell you about my interests.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mladen&layout=compact)
 
-## CS areas I'm `interested` in\* (field titles taken from [Wikipedia](https://en.wikipedia.org/wiki/Computer_science)):
+## :mage: CS areas I'm _interested_ in\* (field titles taken from [Wikipedia](https://en.wikipedia.org/wiki/Computer_science)):
 
 - Computational science, finance and engineering
   - Computational physics
@@ -203,12 +225,12 @@ Now, let me tell you about my interests.
 
 \*the list is not exhaustive :sweat_smile:
 
-## Other areas I'm `especially interested` in (even though I'm a beginner in most of them):
+## :scientist: Other areas I'm _especially interested_ in (even though I'm a beginner in most of them):
 
 - Mathematics (currently re-learning Linear Algebra - check out the [first 10 pages of my self-learning notebook](https://drive.google.com/file/d/1xnGnLHTG0R2OPtLmADXhx_KDQZT7r5ZS/view?usp=drive_link); soon I will be re-learning Calculus, Statistics, Probability and Logic)
-- Physics (currently re-learning Classical Mechanics by reading the Feynman Lectures on Physics but also playing around with physics simulations)
-- Chemistry + Biology (especially the intersection of the two, which is Biochemistry; currently not learning anything in these areas but I plan to in the future)
-- Neuroscience (currently not learning anything in this area but I plan to in the future)
+- Physics (trying to find some time to work on graphics programming and simple game development that involves physics)
+- Chemistry + Biology (especially the intersection of the two, which is Biochemistry)
+- Neuroscience
 - Philosophy (currently reading a bit about Logic and Epistemology)
 - Psychology (currently reading a bit about Cognitive Psychology)
 
