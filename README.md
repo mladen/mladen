@@ -93,8 +93,8 @@ Now, let me tell you about my interests.
       - C (for systems programming, game development and embedded systems)<br>
       - C++ (for systems programming and game development; not planning to go too deep here)<br>
       - Docker (for containerization)<br>
-      - SQL (for databases and data science)<br>
-      - Electronics (I'm a beginner; playing around with Arduino using the Elegoo's "The Most Complete Starter Kit")
+      - SQL + MySQL (for databases and data science)<br>
+      - Electronics + Arduino (I'm a beginner; playing around with Arduino using the Elegoo's "The Most Complete Starter Kit")
     </td>
 </tbody></table>
 
