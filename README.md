@@ -19,7 +19,7 @@ When considering my career aspirations, I am drawn to fields that offer the oppo
 
 Now, let me tell you about my interests.
 
-## :hammer_and_wrench: These are the programming languages and tools I use the most - at the moment:
+## :computer: These are the programming languages and tools I use the most - at the moment:
 
 <table>
   <tbody>
@@ -181,11 +181,11 @@ Now, let me tell you about my interests.
   </tbody>
 </table>
 
-## :mag: Here's an overview of my GitHub stats:
+## :bar_chart: Here's an overview of my GitHub stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mladen&layout=compact)
 
-## :computer: CS areas I'm _interested_ in:
+## :spark: CS areas I'm _interested_ in:
 
 - Computational science, finance, engineering and medical informatics
 - Image and sound processing
@@ -194,7 +194,7 @@ Now, let me tell you about my interests.
 - Data structures and algorithms
 - Artificial Intelligence
 
-## :microsoft: :telescope: Other areas I'm _especially interested_ in (even though I'm a beginner in most of them):
+## :microscope: :telescope: Other areas I'm _especially interested_ in (even though I'm a beginner in most of them):
 
 - Mathematics (currently re-learning Linear Algebra - check out the [first 10 pages of my self-learning notebook](https://drive.google.com/file/d/1xnGnLHTG0R2OPtLmADXhx_KDQZT7r5ZS/view?usp=drive_link); soon I will be re-learning Calculus, Statistics, Probability and Logic)
 - Physics (trying to find some time to work on graphics programming and simple game development that involves physics)
