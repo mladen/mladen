@@ -19,7 +19,7 @@ When considering my career aspirations, I am drawn to fields that offer the oppo
 
 Now, let me tell you about my interests.
 
-## These are the programming languages and tools I use the most - at the moment:
+## :hammer_and_wrench: These are the programming languages and tools I use the most - at the moment:
 
 <table>
   <tbody>
@@ -71,7 +71,7 @@ Now, let me tell you about my interests.
   </tbody>
 </table>
 
-## Here are the languages and technologies I'm currently either (re)learning or improving my skills in (although you could argue that I'm always learning something new in all of the previously mentioned languages and technologies too)
+## :open_file_folder: Here are the languages and technologies I'm currently either (re)learning or improving my skills in (although you could argue that I'm always learning something new in all of the previously mentioned languages and technologies too)
 
 <table>
   <tbody>
@@ -120,7 +120,7 @@ Now, let me tell you about my interests.
     </td>
 </tbody></table>
 
-## Here are the languages+technologies I'm _thinking about learning_ in the near future (at least some of them):
+## :books: Here are the languages and technologies I'm _thinking about learning_ in the near future (at least some of them):
 
 <table>
   <thead>
@@ -181,51 +181,20 @@ Now, let me tell you about my interests.
   </tbody>
 </table>
 
-## Here's an overview of my GitHub stats:
+## :mag: Here's an overview of my GitHub stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mladen&layout=compact)
 
-## :mage: CS areas I'm _interested_ in\* (field titles taken from [Wikipedia](https://en.wikipedia.org/wiki/Computer_science)):
+## :computer: CS areas I'm _interested_ in:
 
-- Computational science, finance and engineering
-  - Computational physics
-  - Computational chemistry
-  - Bioinformatics
-  - Neuroinformatics
-  - Medical informatics
+- Computational science, finance, engineering and medical informatics
 - Image and sound processing
-  - FFT algorithms
-  - Image processing
-  - Speech recognition
-  - Data compression
-  - Medical image computing
-  - Speech synthesis
 - Computer graphics and visualization
-  - 2D computer graphics
-  - Computer animation
-  - Rendering
-  - Mixed reality
-  - Virtual reality
 - Theory of computation
-  - Quantum computing theory
 - Data structures and algorithms
-  - Algorithm design
-  - Data structures
 - Artificial Intelligence
-  - Computational learning theory
-  - Computer vision
-  - Neural networks
-  - Natural language processing
-  - Computational game theory
-  - Evolutionary computation
-  - Autonomic computing
-  - Pattern recognition
-  - Robotics
-  - Swarm intelligence
 
-\*the list is not exhaustive :sweat_smile:
-
-## :scientist: Other areas I'm _especially interested_ in (even though I'm a beginner in most of them):
+## :microsoft: :telescope: Other areas I'm _especially interested_ in (even though I'm a beginner in most of them):
 
 - Mathematics (currently re-learning Linear Algebra - check out the [first 10 pages of my self-learning notebook](https://drive.google.com/file/d/1xnGnLHTG0R2OPtLmADXhx_KDQZT7r5ZS/view?usp=drive_link); soon I will be re-learning Calculus, Statistics, Probability and Logic)
 - Physics (trying to find some time to work on graphics programming and simple game development that involves physics)
