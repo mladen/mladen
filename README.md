@@ -19,7 +19,7 @@ When considering my career aspirations, I am drawn to fields that offer the oppo
 
 Now, let me tell you about my interests.
 
-## :computer: These are the programming languages and tools I use the most - at the moment:
+## 💻 These are the programming languages and tools I use the most - at the moment:
 
 <table>
   <tbody>
@@ -181,11 +181,11 @@ Now, let me tell you about my interests.
   </tbody>
 </table>
 
-## :bar_chart: Here's an overview of my GitHub stats:
+## 📊 Here's an overview of my GitHub stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mladen&layout=compact)
 
-## :spark: CS areas I'm _interested_ in:
+## :sparkles: CS areas I'm _interested_ in:
 
 - Computational science, finance, engineering and medical informatics
 - Image and sound processing
