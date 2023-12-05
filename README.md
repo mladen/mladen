@@ -71,7 +71,7 @@ Now, let me tell you about my interests.
   </tbody>
 </table>
 
-## :open_file_folder: Here are the languages and technologies I'm currently either (re)learning or improving my skills in (although you could argue that I'm always learning something new in all of the previously mentioned languages and technologies too)
+## 📖 Here are the languages and technologies I'm currently either (re)learning or improving my skills in (although you could argue that I'm always learning something new in all of the previously mentioned languages and technologies too)
 
 <table>
   <tbody>
