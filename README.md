@@ -131,6 +131,8 @@ Now, let me tell you about my interests.
   <thead>
     <tr>
       <th colspan="3" align="center">Most likely</th>
+      <th colspan="1" align="center"></th>
+      <th colspan="3" align="center">Maybe</th>
     </tr>
   </thead>
   <tbody>
@@ -147,24 +149,7 @@ Now, let me tell you about my interests.
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="Julia" width="48" height="48" style="max-width: 100%;"/>
         <br><strong>Julia</strong>
       </td>
-    </tr>
-    <tr>
-      <td colspan="3">
-        - Rust (for systems programming, game development and web development)<br>
-        - Zig (for systems programming)<br>
-        - Julia (for scientific computing)
-      </td>
-  </tbody>
-</table>
-
-<table>
-  <thead>
-    <tr>
-      <th colspan="3" align="center">Maybe</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
+      <td></td>
       <td align="center" height="121" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="48" height="48" style="max-width: 100%;"/>
         <br><strong>Go</strong>
@@ -179,10 +164,17 @@ Now, let me tell you about my interests.
     </tr>
     <tr>
       <td colspan="3">
+        - Rust (for systems programming, game development and web development)<br>
+        - Zig (for systems programming)<br>
+        - Julia (for scientific computing)
+      </td>
+      <td></td>
+      <td colspan="3">
         - Go (for systems programming)<br>
         - Haskell (for functional programming)<br>
         - Mojo (for AI)
       </td>
+    </tr>
   </tbody>
 </table>
 
@@ -202,7 +194,7 @@ Now, let me tell you about my interests.
       </td>
       <td align="center" height="121" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" style="max-width: 100%;">
-        <br><strong>Bash</strong>
+        <br><strong>Bash + Zsh</strong>
       </td>
       <td align="center" height="121" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" style="max-width: 100%;">
