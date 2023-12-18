@@ -113,7 +113,7 @@ Now, let me tell you about my interests.
     </td>
   </tr>
   <tr>
-    <td colspan="8">
+    <td colspan="8" style="vertical-align: top;">
       - Python (for DS, ML, AI and web development) + Numpy + Pandas (for DS, ML, AI)<br>
       - C (for systems programming, game development and embedded systems)<br>
       - C++ (for systems programming and game development)<br>
@@ -163,18 +163,19 @@ Now, let me tell you about my interests.
       </td>
     </tr>
     <tr>
-      <td colspan="3">
+      <td colspan="3" style="vertical-align: top;">
         - Rust (for systems programming, game development and web development)<br>
         - Zig (for systems programming)<br>
         - Julia (for scientific computing)
       </td>
       <td></td>
-      <td colspan="3">
+      <td colspan="3" style="vertical-align: top;">
         - Go (for systems programming)<br>
         - Haskell (for functional programming)<br>
         - Mojo (for AI)
       </td>
     </tr>
+
   </tbody>
 </table>
 
