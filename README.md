@@ -207,7 +207,7 @@ Now, let me tell you about my interests.
 
 ## 📊 Here's an overview of my GitHub stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mladen&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mladen&layout=compact&theme=transparent&border_radius=0&border_color=808080&title_color=808080&text_color=ffffff&langs_count=10&hide=html,css,scss,less,blade)
 
 ## :sparkles: CS areas I'm _interested_ in:
 
