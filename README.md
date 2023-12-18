@@ -186,6 +186,32 @@ Now, let me tell you about my interests.
   </tbody>
 </table>
 
+## :hammer: Main tools of the trade:
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="4" align="center">Main tools of the trade</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" height="121" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VSCode" style="max-width: 100%;">
+        <br><strong>VSCode</strong>
+      </td>
+      <td align="center" height="121" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" style="max-width: 100%;">
+        <br><strong>Bash</strong>
+      </td>
+      <td align="center" height="121" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" style="max-width: 100%;">
+        <br><strong>Git</strong>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## 📊 Here's an overview of my GitHub stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mladen&layout=compact)
