@@ -17,7 +17,7 @@ When considering my career aspirations, I am drawn to fields that offer the oppo
 
 <br><br>
 
-Now, let me tell you about my interests.
+Now, let me tell you a bit about my professional life, interests and hobbies.
 
 ## 💻 These are the programming languages and tools I _use the most_ - at the moment:
 
@@ -114,15 +114,42 @@ Now, let me tell you about my interests.
   </tr>
   <tr>
     <td colspan="8" style="vertical-align: top;">
-      - Python (for DS, ML, AI and web development) + Numpy + Pandas (for DS, ML, AI)<br>
-      - C (for systems programming, game development and embedded systems)<br>
-      - C++ (for systems programming and game development)<br>
-      - Docker (for containerization)<br>
-      - SQL + MySQL (for databases and data science)<br>
-      - Electronics + Arduino (I'm a beginner; for now I'm playing around with Arduino using the Elegoo's "The Most Complete Starter Kit" - it's really fun!)
+      <ul style="list-style-type: square;">
+        <li>Python (for data analysis, data science, machine learning, artificial intelligence, web development, game development, systems programming, embedded systems, robotics, automation, etc.)
+          <ul style="list-style-type: circle">
+              <li>
+                my <a href="practicing-python">practicing-python</a> repository - a repository where I'm practicing Python by solving various problems from different sources (like <a href="https://www.hackerrank.com/">HackerRank</a>, <a href="https://www.codewars.com/">Codewars</a>, <a href="https://www.codingame.com/">CodinGame</a>)
+              </li>
+          </ul>
+        </li>
+        <li>Numpy + Pandas (for data science, machine learning, artificial intelligence)
+          <ul style="list-style-type: circle">
+              <li>
+                my <a href="practicing-da-ds-ml-ai">practicing-da-ds-ml-ai</a> repository - a repository where I'm practicing Machine Learning and Artificial Intelligence by going through various tutorials, creating my own projects etc.
+              </li>
+          </ul>
+        </li>
+        <li>C and C++ (for systems programming, game development and embedded systems)
+          <ul style="list-style-type: circle">
+              <li>
+                my <a href="practicing-c-and-cpp">practicing-c-and-cpp</a> repository - a repository where I'm practicing C and C++ by solving various problems, learning about game dev, embedded systems, etc.
+              </li>
+          </ul>
+        </li>
+        <li>SQL + MySQL (for databases and data science)
+          <ul style="list-style-type: circle">
+            <li>
+              my <a href="practicing-da-ds-ml-ai">practicing-da-ds-ml-ai</a> repository - part of this repo contains SQL and MySQL code that I've created while learning about databases and data science
+            </li>
+          </ul>
+        </li>
+        <li>Docker (for containerization)</li>
+        <li>Electronics * + Arduino * (I'm a beginner; for now I'm playing around with Arduino using the Elegoo's "The Most Complete Starter Kit" - it's really fun!)</li>
+      </ul>
       <br><br>
       * not planning to go too deep here
     </td>
+
 </tbody></table>
 
 ## :books: Here are the languages and technologies I'm _thinking about learning_ in the near future (at least some of them):
@@ -211,12 +238,30 @@ Now, let me tell you about my interests.
 
 ## :sparkles: CS areas I'm _interested_ in:
 
-- Computational science, finance, engineering and medical informatics
-- Image and sound processing
-- Computer graphics and visualization
-- Theory of computation
-- Data structures and algorithms
-- Artificial Intelligence
+<ul style="list-style-type: square">
+  <li>Computer architecture and organization</li>
+  <li>Operating systems</li>
+  <li>Computer networks</li>
+  <li>Software engineering</li>
+  <li>Programming languages</li>
+  <li>Compilers</li>
+  <li>Database systems</li>
+  <li>Computer security</li>
+  <li>Parallel and distributed computing</li>
+  <li>Human-computer interaction</li>
+  <li>Computer vision</li>
+  <li>Robotics</li>
+  <li>Computer animation</li>
+  <li>Computer games</li>
+  <li>Computational science, finance, engineering and medical informatics</li>
+  <li>Image and sound processing</li>
+  <li>Computer graphics and visualization</li>
+  <li>Theory of computation</li>
+  <li>Data structures and algorithms</li>
+  <li>Artificial Intelligence</li>
+</ul>
+
+I'm (re)learning the basics of Computer Science by engaging in courses, reading books etc. and documenting my progress in the [practicing-computer-science](practicing-computer-science) repository.
 
 ## :microscope: :telescope: Other areas I'm _especially interested_ in (even though I'm a beginner in most of them):
 
