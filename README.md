@@ -2,13 +2,23 @@
 
 My name is Mladen Krivaćević.
 
-I'm a human being with an insatiable thirst for knowledge ! ... (dramatic pause for emphasis! :smile:)
+I'm a human being with an insatiable thirst for knowledge ! ... (dramatic pause for emphasis!)
 
-I am deeply passionate about learning and currently apply my skills as a software engineer. My academic background includes studying electrical engineering, a path I almost completed before choosing to explore different avenues. Outside of my professional life, I indulge in creative pursuits like writing and occasionally gaming, though these hobbies have become less frequent.
+I am deeply passionate about learning and currently apply my skills as a software engineer. My academic background includes studying electrical engineering, a path I almost completed before choosing to explore different avenues. \
+Outside of my professional life, I indulge in creative pursuits like writing and occasionally gaming, though these hobbies have become less frequent (sadly).
 
-My personal life is filled with diverse roles: I'm a father, husband, an son, brother, friend, a helpful and friendly neighbour, and a responsible citizen, each bringing its own set of joys and challenges.
+My personal life is filled with diverse roles: I'm a father, a husband, a son, a brother, a friend, a helpful and friendly neighbour, and a responsible citizen, each bringing its own set of joys and challenges.
 
-When considering my career aspirations, I am drawn to fields that offer the opportunity to **contribute positively to the world**! I am particularly interested in areas such as **biology**, **physics**, **mathematics**, and **biotechnology**, where the potential for beneficial impact is immense. Conversely, I consciously avoid industries like gambling and pornography, which do not align with my personal and professional values.
+When considering my career aspirations, I am drawn to fields that offer the opportunity to **contribute positively to the world**! I am particularly interested in areas such as:
+
+- **biology**,
+- **physics**,
+- **mathematics** and
+- **biotechnology**,
+
+which are fields where the potential for beneficial impact is immense.
+
+Conversely, I consciously avoid industries like **gambling** and **pornography**, which do not align with my personal and professional values.
 
 <!-- Linkedin icon with my link https://www.linkedin.com/in/mladenk/ -->
 <a href="https://www.linkedin.com/in/mladenk/">
@@ -148,7 +158,7 @@ Now, let me tell you a bit about my professional life, interests and hobbies.
       </ul>
       <br><br>
       * not planning to go too deep here<br>
-      ** Part of my "(Re)learning in public" initiative.
+      ** Part of my "(Re)learning in public" initiative. (It sounds sooo serious, doesn't it :) )
     </td>
 
 </tbody></table>
