@@ -118,28 +118,28 @@ Now, let me tell you a bit about my professional life, interests and hobbies.
         <li>Python (for data analysis, data science, machine learning, artificial intelligence, web development, game development, systems programming, embedded systems, robotics, automation, etc.)
           <ul style="list-style-type: circle">
               <li>
-                my <a href="practicing-python">practicing-python</a> repository - a repository where I'm practicing Python by solving various problems from different sources (like <a href="https://www.hackerrank.com/">HackerRank</a>, <a href="https://www.codewars.com/">Codewars</a>, <a href="https://www.codingame.com/">CodinGame</a>)
+                my <a href="practicing-python">practicing-python</a>** repository - a repository where I'm practicing Python by solving various problems from different sources (like <a href="https://www.hackerrank.com/">HackerRank</a>, <a href="https://www.codewars.com/">Codewars</a>, <a href="https://www.codingame.com/">CodinGame</a>)
               </li>
           </ul>
         </li>
         <li>Numpy + Pandas (for data science, machine learning, artificial intelligence)
           <ul style="list-style-type: circle">
               <li>
-                my <a href="practicing-da-ds-ml-ai">practicing-da-ds-ml-ai</a> repository - a repository where I'm practicing Machine Learning and Artificial Intelligence by going through various tutorials, creating my own projects etc.
+                my <a href="practicing-da-ds-ml-ai">practicing-da-ds-ml-ai</a>** repository - a repository where I'm practicing Machine Learning and Artificial Intelligence by going through various tutorials, creating my own projects etc.
               </li>
           </ul>
         </li>
         <li>C and C++ (for systems programming, game development and embedded systems)
           <ul style="list-style-type: circle">
               <li>
-                my <a href="practicing-c-and-cpp">practicing-c-and-cpp</a> repository - a repository where I'm practicing C and C++ by solving various problems, learning about game dev, embedded systems, etc.
+                my <a href="practicing-c-and-cpp">practicing-c-and-cpp</a>** repository - a repository where I'm practicing C and C++ by solving various problems, learning about game dev, embedded systems, etc.
               </li>
           </ul>
         </li>
         <li>SQL + MySQL (for databases and data science)
           <ul style="list-style-type: circle">
             <li>
-              my <a href="practicing-da-ds-ml-ai">practicing-da-ds-ml-ai</a> repository - part of this repo contains SQL and MySQL code that I've created while learning about databases and data science
+              my <a href="practicing-da-ds-ml-ai">practicing-da-ds-ml-ai</a>** repository - part of this repo contains SQL and MySQL code that I've created while learning about databases and data science
             </li>
           </ul>
         </li>
@@ -147,7 +147,8 @@ Now, let me tell you a bit about my professional life, interests and hobbies.
         <li>Electronics * + Arduino * (I'm a beginner; for now I'm playing around with Arduino using the Elegoo's "The Most Complete Starter Kit" - it's really fun!)</li>
       </ul>
       <br><br>
-      * not planning to go too deep here
+      * not planning to go too deep here<br>
+      ** Part of my "(Re)learning in public" initiative.
     </td>
 
 </tbody></table>
@@ -169,8 +170,8 @@ Now, let me tell you a bit about my professional life, interests and hobbies.
         <br><strong>Rust</strong>
       </td>
       <td align="center" height="121" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zig/zig-original.svg" alt="Zig" width="48" height="48" style="max-width: 100%;"/>
-        <br><strong>Zig</strong>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="48" height="48" style="max-width: 100%;"/>
+        <br><strong>Go</strong>
       </td>
       <td align="center" height="121" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="Julia" width="48" height="48" style="max-width: 100%;"/>
@@ -178,8 +179,8 @@ Now, let me tell you a bit about my professional life, interests and hobbies.
       </td>
       <td></td>
       <td align="center" height="121" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="48" height="48" style="max-width: 100%;"/>
-        <br><strong>Go</strong>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zig/zig-original.svg" alt="Zig" width="48" height="48" style="max-width: 100%;"/>
+        <br><strong>Zig</strong>
       </td>
       <td align="center" height="121" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="Haskell" width="48" height="48" style="max-width: 100%;"/>
@@ -192,12 +193,12 @@ Now, let me tell you a bit about my professional life, interests and hobbies.
     <tr>
       <td colspan="3" style="vertical-align: top;">
         - Rust (for systems programming, game development and web development)<br>
-        - Zig (for systems programming)<br>
+        - Go (for systems programming)<br>
         - Julia (for scientific computing)
       </td>
       <td></td>
       <td colspan="3" style="vertical-align: top;">
-        - Go (for systems programming)<br>
+        - Zig (for systems programming)<br>
         - Haskell (for functional programming)<br>
         - Mojo (for AI)
       </td>
@@ -261,7 +262,9 @@ Now, let me tell you a bit about my professional life, interests and hobbies.
   <li>Artificial Intelligence</li>
 </ul>
 
-I'm (re)learning the basics of Computer Science by engaging in courses, reading books etc. and documenting my progress in the [practicing-computer-science](practicing-computer-science) repository.
+I'm (re)learning the basics of Computer Science by engaging in courses, reading books etc. and documenting my progress in the [practicing-computer-science](practicing-computer-science)\*\* repository.
+
+\*\* Part of my "(Re)learning in public" initiative.
 
 ## :microscope: :telescope: Other areas I'm _especially interested_ in (even though I'm a beginner in most of them):
 
