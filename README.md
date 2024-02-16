@@ -284,7 +284,6 @@ I'm (re)learning the basics of Computer Science by engaging in courses, reading 
 - Neuroscience
 - Philosophy (currently reading a bit about Logic and Epistemology)
 - Psychology (currently reading a bit about Cognitive Psychology)
-
 - Education (I'm the founder of an NGO called Axiom, which is a non-profit organization that aims to help students improve their practical skills and knowledge in the fields of Natural and Technical Sciences, like Physics, Chemistry, Biology, Computer Science, Engineering etc.). Check out the presentation [here](https://www.slideshare.net/mladenkrivacevic/aksiom-laboratorija)
 
 > Important:
