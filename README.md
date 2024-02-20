@@ -39,7 +39,7 @@ Now, let me tell you a bit about my professional life, interests and hobbies.
           <br><strong>PHP</strong>
       </td>
       <td align="center" height="121" width="100">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="48" height="48" style="max-width: 100%;"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="48" height="48" style="max-width: 100%;"/>
           <br><strong>Laravel</strong>
       </td>
       <td align="center" height="121" width="100">
@@ -59,7 +59,7 @@ Now, let me tell you a bit about my professional life, interests and hobbies.
         <br><strong>SASS</strong>
       </td>
       <td align="center" height="121" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" style="max-width: 100%;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind" style="max-width: 100%;">
         <br><strong>Tailwind</strong>
       </td>
       <td align="center" height="121" width="100">
@@ -176,7 +176,7 @@ Now, let me tell you a bit about my professional life, interests and hobbies.
   <tbody>
     <tr>
       <td align="center" height="121" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="48" height="48" style="max-width: 100%;"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="48" height="48" style="max-width: 100%;"/>
         <br><strong>Rust</strong>
       </td>
       <td align="center" height="121" width="100">
