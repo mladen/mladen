@@ -2,9 +2,9 @@
 
 My name is Mladen Krivaćević.
 
-I'm a human being with an insatiable thirst for knowledge ! ... (dramatic pause for emphasis!)
+I'm a human being with an insatiable thirst for knowledge ! ... (dramatic pause for emphasis! :smile:)
 
-I am deeply passionate about learning and currently apply my skills as a software engineer. My academic background includes studying electrical engineering, a path I almost completed before choosing to explore different avenues. \
+I am deeply passionate about learning and currently apply my skills as a software engineer. My academic background includes studying electrical engineering, a path I almost completed before choosing to explore different avenues (long story). \
 Outside of my professional life, I indulge in creative pursuits like writing and occasionally gaming, though these hobbies have become less frequent (sadly).
 
 My personal life is filled with diverse roles: I'm a father, a husband, a son, a brother, a friend, a helpful and friendly neighbour, and a responsible citizen, each bringing its own set of joys and challenges.
@@ -252,11 +252,9 @@ Now, let me tell you a bit about my professional life, interests and hobbies.
 <ul style="list-style-type: square">
   <li>Computer architecture and organization</li>
   <li>Operating systems</li>
-  <li>Computer networks</li>
   <li>Software engineering</li>
   <li>Programming languages</li>
   <li>Compilers</li>
-  <li>Database systems</li>
   <li>Computer security</li>
   <li>Parallel and distributed computing</li>
   <li>Human-computer interaction</li>
