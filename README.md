@@ -5,15 +5,16 @@ My name is Mladen Krivaćević.
 I'm a human being with an insatiable thirst for knowledge ! ... (dramatic pause for emphasis! :smile:)
 
 I am deeply passionate about learning and currently apply my skills as a software engineer. My academic background includes studying electrical engineering, a path I almost completed before choosing to explore different avenues (long story). \
-Outside of my professional life, I indulge in creative pursuits like writing and occasionally gaming, though these hobbies have become less frequent (sadly).
+Outside of my professional life, I indulge in creative pursuits like writing and occasionally gaming, though these hobbies have (sadly) become less frequent.
 
 My personal life is filled with diverse roles: I'm a father, a husband, a son, a brother, a friend, a helpful and friendly neighbour, and a responsible citizen, each bringing its own set of joys and challenges.
 
 When considering my career aspirations, I am drawn to fields that offer the opportunity to **contribute positively to the world**! I am particularly interested in areas such as:
 
+- **mathematics**
 - **biology**,
 - **physics**,
-- **mathematics** and
+- **chemistry** and
 - **biotechnology**,
 
 which are fields where the potential for beneficial impact is immense.
@@ -255,7 +256,6 @@ Now, let me tell you a bit about my professional life, interests and hobbies.
   <li>Software engineering</li>
   <li>Programming languages</li>
   <li>Compilers</li>
-  <li>Computer security</li>
   <li>Parallel and distributed computing</li>
   <li>Human-computer interaction</li>
   <li>Computer vision</li>
@@ -282,7 +282,11 @@ I'm (re)learning the basics of Computer Science by engaging in courses, reading 
 - Neuroscience
 - Philosophy (currently reading a bit about Logic and Epistemology)
 - Psychology (currently reading a bit about Cognitive Psychology)
-- Education (I'm the founder of an NGO called Axiom, which is a non-profit organization that aims to help students improve their practical skills and knowledge in the fields of Natural and Technical Sciences, like Physics, Chemistry, Biology, Computer Science, Engineering etc.). Check out the presentation [here](https://www.slideshare.net/mladenkrivacevic/aksiom-laboratorija)
+- Education
+
+## :raising_hand: Volunteering and other activities:
+
+- I'm the founder of an NGO called Axiom, which is a non-profit organization that aims to help students improve their practical skills and knowledge in the fields of Natural and Technical Sciences, like Physics, Chemistry, Biology, Computer Science, Engineering etc.. Check out the presentation on Axiom [here](https://www.slideshare.net/mladenkrivacevic/aksiom-laboratorija)
 
 > Important:
 >
