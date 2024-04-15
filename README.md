@@ -4,7 +4,7 @@ My name is Mladen Krivaćević.
 
 I'm a human being with an insatiable thirst for knowledge ! ... (dramatic pause for emphasis! :smile:)
 
-I am deeply passionate about learning and currently apply my skills as a software engineer. My academic background includes studying electrical engineering, a path I almost completed before choosing to explore different avenues (long story). \
+I am deeply passionate about learning and currently apply my skills as a software engineer. My academic background includes studying (yes, just studying) electrical engineering, a path I almost completed before choosing to explore different path(s) (long story). \
 Outside of my professional life, I indulge in creative pursuits like writing and occasionally gaming, though these hobbies have (sadly) become less frequent.
 
 My personal life is filled with diverse roles: I'm a father, a husband, a son, a brother, a friend, a helpful and friendly neighbour, and a responsible citizen, each bringing its own set of joys and challenges.
@@ -19,7 +19,7 @@ When considering my career aspirations, I am drawn to fields that offer the oppo
 
 which are fields where the potential for beneficial impact is immense.
 
-Conversely, I consciously avoid industries like **gambling** and **pornography**, which do not align with my personal and professional values.
+On the other hand, I consciously avoid industries like **gambling** and **pornography**, which do not align with my personal and professional values.
 
 <!-- Linkedin icon with my link https://www.linkedin.com/in/mladenk/ -->
 <a href="https://www.linkedin.com/in/mladenk/">
@@ -28,7 +28,7 @@ Conversely, I consciously avoid industries like **gambling** and **pornography**
 
 <br><br>
 
-Now, let me tell you a bit about my professional life, interests and hobbies.
+Now, let me tell you a bit about my professional life, interests and hobbies. (Prepare yourself because I have a lot of interests LOL)
 
 ## 💻 These are the programming languages and tools I _use the most_ - at the moment:
 
