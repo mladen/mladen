@@ -290,6 +290,6 @@ I'm (re)learning the basics of Computer Science by engaging in courses, reading 
 
 > Important:
 >
-> If you share similar interests and would like to discuss these fascinating areas (or even collaborate on a project) feel free to contact me. I'd be delighted to speak with you. My email is mladen dot krivacevic at <the biggest search engine> dot com.
+> If you share similar interests and would like to discuss these fascinating areas (or even collaborate on a project) feel free to contact me. I'd be delighted to speak with you. My email is mladen dot krivacevic at _mail service of the biggest search engine_ dot com.
 
 > p.s. Yes, I HAVE used tables in Markdown for styling. It was easier than to write CSS. I'll fix it later :smile:. Also, I'm open to suggestions.
