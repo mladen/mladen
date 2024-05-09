@@ -73,13 +73,20 @@ Now, let me tell you a bit about my professional life, interests and hobbies. (P
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" style="max-width: 100%;">
         <br><strong>Linux</strong>
       </td>
+      <!-- Docker icon -->
       <td align="center" height="121" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" style="max-width: 100%;">
         <br><strong>Docker</strong>
       </td>
+      <!-- MySQL icon -->
       <td align="center" height="121" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" style="max-width: 100%;">
         <br><strong>MySQL</strong>
+      </td>
+      <!-- SQLite icon -->
+      <td align="center" height="121" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" style="max-width: 100%;">
+        <br><strong>SQLite</strong>
       </td>
     </tr>
   </tbody>
