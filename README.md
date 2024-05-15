@@ -4,10 +4,10 @@ My name is Mladen Krivaćević.
 
 I'm a human being with an insatiable thirst for knowledge ! ... (dramatic pause for emphasis! :smile:)
 
-I am deeply passionate about learning and currently apply my skills as a software engineer. My academic background includes studying (yes, just studying) electrical engineering, a path I almost completed before choosing to explore different path(s) (long story). \
+I am deeply passionate about learning (in general) and currently apply my skills as a software engineer. My academic background includes studying (yes, just studying and not finishing my studies) electrical engineering, a path I almost completed before choosing to explore different path(s) (long story). \
 Outside of my professional life, I indulge in creative pursuits like writing and occasionally gaming, though these hobbies have (sadly) become less frequent.
 
-My personal life is filled with diverse roles: I'm a father, a husband, a son, a brother, a friend, a helpful and friendly neighbour, and a responsible citizen, each bringing its own set of joys and challenges.
+My personal life is filled with diverse roles: I'm a father, a husband, a son, a brother, a friend, a helpful and friendly neighbour (I think), and a responsible citizen, each bringing its own set of joys and challenges.
 
 When considering my career aspirations, I am drawn to fields that offer the opportunity to **contribute positively to the world**! I am particularly interested in areas such as:
 
@@ -28,7 +28,7 @@ On the other hand, I consciously avoid industries like **gambling** and **pornog
 
 <br><br>
 
-Now, let me tell you a bit about my professional life, interests and hobbies. (Prepare yourself because I have a lot of interests LOL)
+Now, here is a bit about my professional life, interests and hobbies. (Be prepared because I have a lot of interests LOL)
 
 ## 💻 These are the programming languages and tools I _use the most_ - at the moment:
 
