@@ -2,9 +2,17 @@
 
 My name is Mladen Krivaćević.
 
-I'm a human being with an insatiable thirst for knowledge ! ... (dramatic pause for emphasis! :smile:)
+For as long as I can remember, what I've wanted, probably more than anything - is to figure it all out.
 
-I am deeply passionate about learning (in general) and currently apply my skills as a software engineer. My academic background includes studying (yes, just studying and not finishing my studies) electrical engineering, a path I almost completed before choosing to explore different path(s) (long story). \
+I've always been fascinated by how the world works, asking myself questions like, "Why are we here?", "What drives us and our actions?" etc. This curiosity also pulls me toward discovering the principles that shape the universe and the laws of nature.
+
+I want to get better at solving problems, thinking critically, reasoning logically, and making smart(er) decisions. I want to communicate well, learn faster, teach, lead, work with others, go solo, bring out innovation and express creativity.
+
+On a practical side, I've always wanted to know how things work, why they do, and how they could be better.
+
+I'm not quite where I want to be with a lot of these things, but I'm working on it.
+
+As you might guess, I am deeply passionate about learning (in general) and currently apply my skills as a software engineer. My academic background includes studying (yes, just studying and not finishing my studies) electrical engineering, a path I almost completed before choosing to explore different path(s) (long story, but you know the ending now lol :) ). \
 Outside of my professional life, I indulge in creative pursuits like writing and occasionally gaming, though these hobbies have (sadly) become less frequent.
 
 My personal life is filled with diverse roles: I'm a father, a husband, a son, a brother, a friend, a helpful and friendly neighbour (I think), and a responsible citizen, each bringing its own set of joys and challenges.
@@ -14,12 +22,16 @@ When considering my career aspirations, I am drawn to fields that offer the oppo
 - **mathematics**
 - **biology**,
 - **physics**,
-- **chemistry** and
+- **chemistry**,
 - **biotechnology**,
+- **neuroscience**,
+- **philosophy**,
+- **psychology** and
+- **education**,
 
 which are fields where the potential for beneficial impact is immense.
 
-On the other hand, I consciously avoid industries like **gambling** and **pornography**, which do not align with my personal and professional values.
+On the other hand, I consciously avoid industries like **gambling** and **pornography**, which do not align with my personal and professional values. Other industries I'm not particularly interested in are **marketing** and **sales** which I find to be too focused on profit and not enough on people.
 
 <!-- Linkedin icon with my link https://www.linkedin.com/in/mladenk/ -->
 <a href="https://www.linkedin.com/in/mladenk/">
