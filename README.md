@@ -2,17 +2,10 @@
 
 My name is Mladen Krivaćević.
 
-For as long as I can remember, what I've wanted, probably more than anything - is to figure it all out.
+For as long as I can remember, what I've wanted, probably more than anything - is to figure it all out. I've always been fascinated by how the world works, asking myself questions like, "Why are we here?", "What drives us and our actions?" etc. This curiosity also pulls me toward discovering the principles that shape the universe and the laws of nature. Besides that, I also want to know myself better. That's a whole other journey, but it's fascinating too.
 
-I've always been fascinated by how the world works, asking myself questions like, "Why are we here?", "What drives us and our actions?" etc. This curiosity also pulls me toward discovering the principles that shape the universe and the laws of nature.
+On a practical side, I've always wanted to know how things work, why they do what they do, and how they could be better. I am deeply passionate about learning about all those things and currently apply my skills as a software engineer. 
 
-I want to get better at solving problems, thinking critically, reasoning logically, and making smart(er) decisions. I want to communicate well, learn faster, teach, lead, work with others, go solo, bring out innovation and express creativity.
-
-On a practical side, I've always wanted to know how things work, why they do, and how they could be better.
-
-I'm not quite where I want to be with a lot of these things, but I'm working on it.
-
-As you might guess, I am deeply passionate about learning (in general) and currently apply my skills as a software engineer. My academic background includes studying (yes, just studying and not finishing my studies) electrical engineering, a path I almost completed before choosing to explore different path(s) (long story, but you know the ending now lol :) ). \
 Outside of my professional life, I indulge in creative pursuits like writing and occasionally gaming, though these hobbies have (sadly) become less frequent.
 
 My personal life is filled with diverse roles: I'm a father, a husband, a son, a brother, a friend, a helpful and friendly neighbour (I think), and a responsible citizen, each bringing its own set of joys and challenges.
