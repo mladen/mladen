@@ -12,15 +12,14 @@ My personal life is filled with diverse roles: I'm a father, a husband, a son, a
 
 When considering my career aspirations, I am drawn to fields that offer the opportunity to **contribute positively to the world**! I am particularly interested in areas such as:
 
-- **mathematics**
-- **biology**,
-- **physics**,
-- **chemistry**,
+- **mathematics** (currently re-learning Linear Algebra - check out the [first 10 pages of my self-learning notebook](https://drive.google.com/file/d/1xnGnLHTG0R2OPtLmADXhx_KDQZT7r5ZS/view?usp=drive_link); soon I will be re-learning Calculus and Probability and learning Statistics and Logic)
+- **physics** (trying to find some time to work on graphics programming and simple game development that involves physics),
+- **chemistry** and **biology** (especially the intersection of the two, which is Biochemistry),
 - **biotechnology**,
 - **neuroscience**,
-- **philosophy**,
-- **psychology** and
-- **education**,
+- **philosophy** (currently reading a bit about Logic and Epistemology),
+- **psychology** (currently reading a bit about Cognitive Psychology) and
+- **education** (homeschooling, unschooling, self-directed learning, etc.).,
 
 which are fields where the potential for beneficial impact is immense.
 
@@ -285,16 +284,6 @@ Now, here is a bit about my professional life, interests and hobbies. (Be prepar
 I'm (re)learning the basics of Computer Science by engaging in courses, reading books etc. and documenting my progress in the [practicing-computer-science](https://github.com/mladen/practicing-computer-science)\*\* repository.
 
 \*\* Part of my "(Re)learning in public" initiative.
-
-## :microscope: :telescope: Other areas I'm _especially interested_ in (even though I'm a beginner in most of them):
-
-- Mathematics (currently re-learning Linear Algebra - check out the [first 10 pages of my self-learning notebook](https://drive.google.com/file/d/1xnGnLHTG0R2OPtLmADXhx_KDQZT7r5ZS/view?usp=drive_link); soon I will be re-learning Calculus, Statistics, Probability and Logic)
-- Physics (trying to find some time to work on graphics programming and simple game development that involves physics)
-- Chemistry + Biology (especially the intersection of the two, which is Biochemistry)
-- Neuroscience
-- Philosophy (currently reading a bit about Logic and Epistemology)
-- Psychology (currently reading a bit about Cognitive Psychology)
-- Education
 
 ## :raising_hand: Volunteering and other activities:
 
