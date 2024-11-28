@@ -175,18 +175,22 @@ Now, here is a bit about my professional life, interests and hobbies. (Be prepar
 
 </tbody></table>
 
-## :books: Here are the languages and technologies I'm _thinking about learning_ in the near future (at least some of them):
+## :books: Here are the languages and technologies I'm thinking about _exploring_ in the near future (at least some of them):
 
 <table>
   <thead>
     <tr>
-      <th colspan="3" align="center">Most likely</th>
+      <th colspan="4" align="center">Most likely</th>
       <th colspan="1" align="center"></th>
       <th colspan="3" align="center">Maybe</th>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <td align="center" height="121" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original.svg" alt="OCaml" width="48" height="48" style="max-width: 100%;"/>
+        <br><strong>OCaml</strong>
+      </td>
       <td align="center" height="121" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="48" height="48" style="max-width: 100%;"/>
         <br><strong>Rust</strong>
@@ -213,16 +217,17 @@ Now, here is a bit about my professional life, interests and hobbies. (Be prepar
       </td>
     </tr>
     <tr>
-      <td colspan="3" style="vertical-align: top;">
-        - Rust (for systems programming, game development and web development)<br>
-        - Go (for systems programming)<br>
-        - Julia (for scientific computing)
+      <td colspan="4" style="vertical-align: top;">
+        - OCaml (for: systems programming and a bit of web development; why: functional and imperative styles, procedural and object-oriented, strong type system, fast compilation)<br>
+        - Rust (for: systems programming, game development and web development; why: performance, security, and reliability)<br>
+        - Go (for: systems programming; why: efficient concurrency, simplicity, performance, cloud)<br>
+        - Julia (for: scientific computing; why: performance (comparable to C), simplicity)
       </td>
       <td></td>
       <td colspan="3" style="vertical-align: top;">
-        - Zig (for systems programming)<br>
-        - Haskell (for functional programming)<br>
-        - Mojo (for AI)
+        - Zig (for: systems programming)<br>
+        - Haskell (for: functional programming)<br>
+        - Mojo (for: AI)
       </td>
     </tr>
 
