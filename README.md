@@ -2,13 +2,15 @@
 
 My name is Mladen Krivaćević.
 
-For as long as I can remember, what I've wanted, probably more than anything - is to figure it all out. I've always been fascinated by how the world works, asking myself questions like, "Why are we here?", "What drives us and our actions?" etc. This curiosity also pulls me toward discovering the principles that shape the universe and the laws of nature. Besides that, I also want to know myself better. That's a whole other journey, but it's fascinating too.
+For as long as I can remember, what I've wanted, probably more than anything - is to figure it all out. I've always been fascinated by how the world works, asking myself questions like, "Why are we here?", "What drives us and our actions?" etc.
 
-On a practical side, I've always wanted to know how things work, why they do what they do, and how they could be better. I am deeply passionate about learning about all those things and currently apply my skills as a software engineer. 
+This curiosity also pulls me toward _discovering and learning about the principles that shape the universe and the laws of nature_. Besides that, I also want to know myself better. That's a whole other journey, but it's fascinating too. In short - I’d describe myself as an introvert, but I genuinely enjoy engaging with people who share similar interests, ideas, and aspirations.
 
-Outside of my professional life, I indulge in creative pursuits like writing and occasionally gaming, though these hobbies have (sadly) become less frequent.
+On a _practical side_, I've always wanted to know how things work, why they do what they do, and how they could be better. I am deeply passionate about learning about all those things and currently apply my skills as a software engineer. 
 
-My personal life is filled with diverse roles: I'm a father, a husband, a son, a brother, a friend, a helpful and friendly neighbour (I think), and a responsible citizen, each bringing its own set of joys and challenges.
+Outside of my _professional life_, I indulge in creative pursuits like writing and occasionally gaming, though these hobbies have (sadly) become less frequent.
+
+My _personal life_ is filled with diverse roles: I'm a father, a husband, a son, a brother, a friend, a helpful and friendly neighbour (I think), and a responsible citizen, each bringing its own set of joys and challenges.
 
 When considering my career aspirations, I am drawn to fields that offer the opportunity to **contribute positively to the world**! I am particularly interested in areas such as:
 
