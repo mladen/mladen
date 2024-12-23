@@ -240,13 +240,13 @@ Now, here is a bit about my professional life, interests and hobbies. (Be prepar
       </td>
     </tr>
     <tr>
-      <td colspan="3" style="vertical-align: top;">
+      <td colspan="3" valign="top">
         - OCaml (Use: systems programming and some web development; Reasons: combines functional and imperative styles, supports procedural and object-oriented programming, has a strong type system, and offers fast compilation)<br>
         - Rust (Use: systems programming, game development and web development; Reasons: performance, security, and reliability)<br>
         - Julia (Use: scientific computing; Reasons: performance (comparable to C), simplicity)
       </td>
       <td></td>
-      <td colspan="4" style="vertical-align: top;">
+      <td colspan="4" valign="top">
         - Go (Use: systems programming; Reasons: efficient concurrency, simplicity, performance, cloud)<br>
         - Zig (Use: systems programming; Reasons: performance?)<br>
         - Haskell (Use: functional programming)<br>
