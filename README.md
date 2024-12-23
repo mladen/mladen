@@ -10,7 +10,7 @@ On a _practical side_, I've always wanted to know how things work, why they do w
 
 Outside of my _professional life_, I indulge in creative pursuits like writing and occasionally gaming, though these hobbies have (sadly) become less frequent.
 
-My _personal life_ is filled with diverse roles: I'm a father, a husband, a son, a brother, a friend, a helpful and friendly neighbour (I think), and a responsible citizen, each bringing its own set of joys and challenges.
+My _personal life_ is filled with diverse roles: I'm a father, a husband, a son, a brother, a friend, a helpful and friendly neighbour (I think), and a responsible citizen (doing my small part to make the world a better place), each bringing its own set of joys and challenges.
 
 When considering my career aspirations, I am drawn to fields that offer the opportunity to **contribute positively to the world**! I am particularly interested in areas such as:
 
@@ -36,7 +36,7 @@ On the other hand, I consciously avoid industries like **gambling** and **pornog
 
 Now, here is a bit about my professional life, interests and hobbies. (Be prepared because I have a lot of interests LOL)
 
-## 💻 These are the programming languages and tools I _use the most_ - at the moment:
+## 💻 These are the programming languages and databases I use _the most_ - at the moment:
 
 <table>
   <tbody>
@@ -49,6 +49,36 @@ Now, here is a bit about my professional life, interests and hobbies. (Be prepar
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="48" height="48" style="max-width: 100%;"/>
           <br><strong>Laravel</strong>
       </td>
+      <td align="center" height="121" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="max-width: 100%;"/>
+        <br><strong>Python</strong>
+      </td>
+      <td align="center" height="121" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="48" height="48" style="max-width: 100%;"/>
+        <br><strong>C</strong>
+      </td>
+      <!-- Docker icon -->
+      <td align="center" height="121" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" style="max-width: 100%;">
+        <br><strong>Docker</strong>
+      </td>
+      <!-- MySQL icon -->
+      <td align="center" height="121" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" style="max-width: 100%;">
+        <br><strong>MySQL</strong>
+      </td>
+      <!-- PostgreSQL icon -->
+      <td align="center" height="121" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="48" height="48" alt="PostgreSQL" style="max-width: 100%;">
+        <br><strong>PostgreSQL</strong>
+      </td>
+      <!-- SQLite icon -->
+      <td align="center" height="121" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" style="max-width: 100%;">
+        <br><strong>SQLite</strong>
+      </td>
+    </tr>
+    <tr>
       <td align="center" height="121" width="100">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="max-width: 100%;"/>
           <br><strong>Javascript</strong>
@@ -70,121 +100,116 @@ Now, here is a bit about my professional life, interests and hobbies. (Be prepar
         <br><strong>Tailwind</strong>
       </td>
       <td align="center" height="121" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quasar/quasar-plain.svg" width="48" height="48" alt="Quasar" style="max-width: 100%;">
         <br><strong>Quasar Framework</strong>
       </td>
     </tr>
     <tr>
-      <!-- Linux icon -->
-      <td align="center" height="121" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" style="max-width: 100%;">
-        <br><strong>Linux</strong>
-      </td>
-      <!-- Docker icon -->
-      <td align="center" height="121" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" style="max-width: 100%;">
-        <br><strong>Docker</strong>
-      </td>
-      <!-- MySQL icon -->
-      <td align="center" height="121" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" style="max-width: 100%;">
-        <br><strong>MySQL</strong>
-      </td>
-      <!-- SQLite icon -->
-      <td align="center" height="121" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" style="max-width: 100%;">
-        <br><strong>SQLite</strong>
+      <td colspan="9" style="vertical-align: top;">
       </td>
     </tr>
   </tbody>
 </table>
 
-## 📖 Here are the languages and technologies I'm _currently either (re)learning or improving my skills in_ (although you could argue that I'm always learning something new in all of the previously mentioned languages and technologies too)
+## 📖 Here are the technologies and languages I'm currently either _(re)learning or improving my skills in_ (although you could argue that I'm always learning something new in all of the previously mentioned languages and technologies too)
 
 <table>
   <tbody>
     <tr>
-        <td align="center" height="121" width="100">
+      <td align="center" height="121" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="max-width: 100%;"/>
         <br><strong>Python</strong>
-    </td>
-    <td align="center" height="121" width="100">
+      </td>
+      <td align="center" height="121" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="Numpy" width="48" height="48" style="max-width: 100%;"/>
         <br><strong>Numpy</strong>
-    </td>
-    <td align="center" height="121" width="100">
+      </td>
+      <td align="center" height="121" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48" style="max-width: 100%;"/>
         <br><strong>Pandas</strong>
-    </td>
-    <td align="center" height="121" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="48" height="48" style="max-width: 100%;"/>
-        <br><strong>C</strong>
-    </td>
-    <td align="center" height="121" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="max-width: 100%;"/>
-        <br><strong>C++ *</strong>
-    </td>
-    <td align="center" height="121" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="max-width: 100%;"/>
-        <br><strong>Docker</strong>
-    </td>
-    <td align="center" height="121" width="100">
+      </td>
+      <td align="center" height="121" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="max-width: 100%;"/>
         <br><strong>MySQL</strong>
-    </td>
-    <td align="center" height="121" width="100">
+      </td>
+      <!-- PostgreSQL icon -->
+      <td align="center" height="121" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="48" height="48" alt="PostgreSQL" style="max-width: 100%;">
+        <br><strong>PostgreSQL</strong>
+      </td>
+      <td align="center" height="121" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="max-width: 100%;"/>
+        <br><strong>C++ *</strong>
+      </td>
+      <td align="center" height="121" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="max-width: 100%;"/>
+        <br><strong>Docker</strong>
+      </td>
+      <!-- Kubernetes icon -->
+      <td align="center" height="121" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" style="max-width: 100%;">
+        <br><strong>Kubernetes *</strong>
+      </td>
+      <!-- AWS icon -->
+      <td align="center" height="121" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" height="48" alt="AWS" style="max-width: 100%;">
+        <br><strong>AWS *</strong>
+      </td>
+      <td align="center" height="121" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Electronics + Arduino" width="48" height="48" style="max-width: 100%;"/>
         <br><strong>Electronics + Arduino *</strong>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="8" style="vertical-align: top;">
-      <ul style="list-style-type: square;">
-        <li>Python (for data analysis, data science, machine learning, artificial intelligence, web development, game development, systems programming, embedded systems, robotics, automation, etc.)
-          <ul style="list-style-type: circle">
+      </td>
+    </tr>
+    <tr>
+      <td colspan="10" style="vertical-align: top;">
+        <ul style="list-style-type: square;">
+          <li>Python (for data analysis, data science, machine learning, artificial intelligence, web development, game development, systems programming, embedded systems, robotics, automation, etc.)
+            <ul style="list-style-type: circle">
+                <li>
+                  my <a href="https://github.com/mladen/practicing-python">practicing-python</a>** repository - a repository where I'm practicing Python by solving various problems from different sources (like <a href="https://www.hackerrank.com/">HackerRank</a>, <a href="https://www.codewars.com/">Codewars</a>, <a href="https://www.codingame.com/">CodinGame</a>)
+                </li>
+            </ul>
+          </li>
+          <li>Numpy + Pandas (for data science, machine learning, artificial intelligence)
+            <ul style="list-style-type: circle">
+                <li>
+                  my <a href="https://github.com/mladen/practicing-da-ds-ml-ai">practicing-da-ds-ml-ai</a>** repository - a repository where I'm practicing Machine Learning and Artificial Intelligence by going through various tutorials, creating my own projects etc.
+                </li>
+            </ul>
+          </li>
+          <li>C and C++ (for systems programming, game development and embedded systems)
+            <ul style="list-style-type: circle">
+                <li>
+                  my <a href="https://github.com/mladen/practicing-c-and-cpp">practicing-c-and-cpp</a>** repository - a repository where I'm practicing C and C++ by solving various problems, learning about game dev, embedded systems, etc.
+                </li>
+            </ul>
+          </li>
+          <li>SQL + MySQL (for databases and data science)
+            <ul style="list-style-type: circle">
               <li>
-                my <a href="https://github.com/mladen/practicing-python">practicing-python</a>** repository - a repository where I'm practicing Python by solving various problems from different sources (like <a href="https://www.hackerrank.com/">HackerRank</a>, <a href="https://www.codewars.com/">Codewars</a>, <a href="https://www.codingame.com/">CodinGame</a>)
+                my <a href="https://github.com/mladen/practicing-da-ds-ml-ai">practicing-da-ds-ml-ai</a>** repository - part of this repo contains SQL and MySQL code that I've created while learning about databases and data science
               </li>
-          </ul>
-        </li>
-        <li>Numpy + Pandas (for data science, machine learning, artificial intelligence)
-          <ul style="list-style-type: circle">
-              <li>
-                my <a href="https://github.com/mladen/practicing-da-ds-ml-ai">practicing-da-ds-ml-ai</a>** repository - a repository where I'm practicing Machine Learning and Artificial Intelligence by going through various tutorials, creating my own projects etc.
-              </li>
-          </ul>
-        </li>
-        <li>C and C++ (for systems programming, game development and embedded systems)
-          <ul style="list-style-type: circle">
-              <li>
-                my <a href="https://github.com/mladen/practicing-c-and-cpp">practicing-c-and-cpp</a>** repository - a repository where I'm practicing C and C++ by solving various problems, learning about game dev, embedded systems, etc.
-              </li>
-          </ul>
-        </li>
-        <li>SQL + MySQL (for databases and data science)
-          <ul style="list-style-type: circle">
-            <li>
-              my <a href="https://github.com/mladen/practicing-da-ds-ml-ai">practicing-da-ds-ml-ai</a>** repository - part of this repo contains SQL and MySQL code that I've created while learning about databases and data science
-            </li>
-          </ul>
-        </li>
-        <li>Docker (for containerization)</li>
-        <li>Electronics * + Arduino * (I'm a beginner; for now I'm playing around with Arduino using the Elegoo's "The Most Complete Starter Kit" - it's really fun!)</li>
-      </ul>
-      <br><br>
-      * not planning to go too deep here<br>
-      ** Part of my "(Re)learning in public" initiative. (It sounds sooo serious, doesn't it :) )
-    </td>
-
-</tbody></table>
+            </ul>
+          </li>
+          <li>Docker (for containerization)</li>
+          <li>Electronics * + Arduino * (I'm a beginner; for now I'm playing around with Arduino using the Elegoo's "The Most Complete Starter Kit" - it's really fun!)</li>
+        </ul>
+        <br>
+        * not planning to go too deep here, for now<br>
+        ** Part of my "(Re)learning in public" initiative. (It sounds sooo serious, doesn't it :) )
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## :books: Here are the languages and technologies I'm thinking about _exploring_ in the near future (at least some of them):
 
 <table>
   <thead>
     <tr>
-      <th colspan="4" align="center">Most likely</th>
+      <th colspan="3" align="center">Most likely</th>
       <th colspan="1" align="center"></th>
-      <th colspan="3" align="center">Maybe</th>
+      <th colspan="4" align="center">Maybe</th>
     </tr>
   </thead>
   <tbody>
@@ -198,14 +223,14 @@ Now, here is a bit about my professional life, interests and hobbies. (Be prepar
         <br><strong>Rust</strong>
       </td>
       <td align="center" height="121" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="48" height="48" style="max-width: 100%;"/>
-        <br><strong>Go</strong>
-      </td>
-      <td align="center" height="121" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="Julia" width="48" height="48" style="max-width: 100%;"/>
         <br><strong>Julia</strong>
       </td>
       <td></td>
+      <td align="center" height="121" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="48" height="48" style="max-width: 100%;"/>
+        <br><strong>Go</strong>
+      </td>
       <td align="center" height="121" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zig/zig-original.svg" alt="Zig" width="48" height="48" style="max-width: 100%;"/>
         <br><strong>Zig</strong>
@@ -219,17 +244,17 @@ Now, here is a bit about my professional life, interests and hobbies. (Be prepar
       </td>
     </tr>
     <tr>
-      <td colspan="4" style="vertical-align: top;">
-        - OCaml (for: systems programming and a bit of web development; why: functional and imperative styles, procedural and object-oriented, strong type system, fast compilation)<br>
-        - Rust (for: systems programming, game development and web development; why: performance, security, and reliability)<br>
-        - Go (for: systems programming; why: efficient concurrency, simplicity, performance, cloud)<br>
-        - Julia (for: scientific computing; why: performance (comparable to C), simplicity)
+      <td colspan="3" style="vertical-align: top;">
+        - OCaml (Use: systems programming and some web development; Reasons: combines functional and imperative styles, supports procedural and object-oriented programming, has a strong type system, and offers fast compilation)<br>
+        - Rust (Use: systems programming, game development and web development; Reasons: performance, security, and reliability)<br>
+        - Julia (Use: scientific computing; Reasons: performance (comparable to C), simplicity)
       </td>
       <td></td>
-      <td colspan="3" style="vertical-align: top;">
-        - Zig (for: systems programming)<br>
-        - Haskell (for: functional programming)<br>
-        - Mojo (for: AI)
+      <td colspan="4" style="vertical-align: top;">
+        - Go (Use: systems programming; Reasons: efficient concurrency, simplicity, performance, cloud)<br>
+        - Zig (Use: systems programming; Reasons: performance?)<br>
+        - Haskell (Use: functional programming)<br>
+        - Mojo (Use: AI)
       </td>
     </tr>
 
@@ -246,6 +271,11 @@ Now, here is a bit about my professional life, interests and hobbies. (Be prepar
   </thead>
   <tbody>
     <tr>
+      <!-- Linux icon -->
+      <td align="center" height="121" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" style="max-width: 100%;">
+        <br><strong>Linux</strong>
+      </td>
       <td align="center" height="121" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VSCode" style="max-width: 100%;">
         <br><strong>VSCode</strong>
