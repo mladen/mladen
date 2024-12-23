@@ -104,10 +104,6 @@ Now, here is a bit about my professional life, interests and hobbies. (Be prepar
         <br><strong>Quasar Framework</strong>
       </td>
     </tr>
-    <tr>
-      <td colspan="9" style="vertical-align: top;">
-      </td>
-    </tr>
   </tbody>
 </table>
 
@@ -254,7 +250,7 @@ Now, here is a bit about my professional life, interests and hobbies. (Be prepar
         - Go (Use: systems programming; Reasons: efficient concurrency, simplicity, performance, cloud)<br>
         - Zig (Use: systems programming; Reasons: performance?)<br>
         - Haskell (Use: functional programming)<br>
-        - Mojo (Use: AI)
+        - Mojo (Use: AI)<br><br><br>
       </td>
     </tr>
 
