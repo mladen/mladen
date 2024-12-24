@@ -134,22 +134,12 @@ Now, here is a bit about my professional life, interests and hobbies. (Be prepar
         <br><strong>PostgreSQL</strong>
       </td>
       <td align="center" height="121" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="max-width: 100%;"/>
-        <br><strong>C++ *</strong>
-      </td>
-      <td align="center" height="121" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="max-width: 100%;"/>
         <br><strong>Docker</strong>
       </td>
-      <!-- Kubernetes icon -->
       <td align="center" height="121" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" style="max-width: 100%;">
-        <br><strong>Kubernetes *</strong>
-      </td>
-      <!-- AWS icon -->
-      <td align="center" height="121" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" height="48" alt="AWS" style="max-width: 100%;">
-        <br><strong>AWS *</strong>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="max-width: 100%;"/>
+        <br><strong>C++ *</strong>
       </td>
       <td align="center" height="121" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Electronics + Arduino" width="48" height="48" style="max-width: 100%;"/>
@@ -203,7 +193,7 @@ Now, here is a bit about my professional life, interests and hobbies. (Be prepar
 <table>
   <thead>
     <tr>
-      <th colspan="3" align="center">Most likely</th>
+      <th colspan="5" align="center">Most likely</th>
       <th colspan="1" align="center"></th>
       <th colspan="4" align="center">Maybe</th>
     </tr>
@@ -221,6 +211,16 @@ Now, here is a bit about my professional life, interests and hobbies. (Be prepar
       <td align="center" height="121" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="Julia" width="48" height="48" style="max-width: 100%;"/>
         <br><strong>Julia</strong>
+      </td>
+      <!-- Kubernetes icon -->
+      <td align="center" height="121" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" style="max-width: 100%;">
+        <br><strong>Kubernetes</strong>
+      </td>
+      <!-- AWS icon -->
+      <td align="center" height="121" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" height="48" alt="AWS" style="max-width: 100%;">
+        <br><strong>AWS</strong>
       </td>
       <td></td>
       <td align="center" height="121" width="100">
@@ -240,10 +240,11 @@ Now, here is a bit about my professional life, interests and hobbies. (Be prepar
       </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td colspan="5" valign="top">
         - OCaml (Use: systems programming and some web development; Reasons: combines functional and imperative styles, supports procedural and object-oriented programming, has a strong type system, and offers fast compilation)<br>
         - Rust (Use: systems programming, game development and web development; Reasons: performance, security, and reliability)<br>
-        - Julia (Use: scientific computing; Reasons: performance (comparable to C), simplicity)
+        - Julia (Use: scientific computing; Reasons: performance (comparable to C), simplicity)<br>
+        - Kubernetes and AWS (Use: cloud computing; Reasons: ease of deployment, scalability, and management) 
       </td>
       <td></td>
       <td colspan="4" valign="top">
