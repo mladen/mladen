@@ -25,7 +25,7 @@ When considering my career aspirations, I am drawn to fields that offer the oppo
 
 which are fields where the potential for beneficial impact is immense.
 
-On the other hand, I consciously avoid industries like **gambling** and **pornography**, which do not align with my personal and professional values. Other industries I'm not particularly interested in are **marketing** and **sales** which I find to be too focused on profit and not enough on people.
+On the other hand, I consciously avoid industries such as **gambling**, **adult entertainment**, and anything related to the **military-industrial complex**, as they do not align with my personal or professional values. I’m also not particularly interested in **marketing** or **sales**, as I find them too focused on profit and not enough on people.
 
 <!-- Linkedin icon with my link https://www.linkedin.com/in/mladenk/ -->
 <a href="https://www.linkedin.com/in/mladenk/">
@@ -139,7 +139,7 @@ Now, here is a bit about my professional life, interests and hobbies. (Be prepar
       </td>
       <td align="center" height="121" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="max-width: 100%;"/>
-        <br><strong>C++ *</strong>
+        <br><strong>C++</strong>
       </td>
       <td align="center" height="121" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Electronics + Arduino" width="48" height="48" style="max-width: 100%;"/>
@@ -208,10 +208,6 @@ Now, here is a bit about my professional life, interests and hobbies. (Be prepar
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="48" height="48" style="max-width: 100%;"/>
         <br><strong>Rust</strong>
       </td>
-      <td align="center" height="121" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="Julia" width="48" height="48" style="max-width: 100%;"/>
-        <br><strong>Julia</strong>
-      </td>
       <!-- Kubernetes icon -->
       <td align="center" height="121" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" style="max-width: 100%;">
@@ -232,8 +228,8 @@ Now, here is a bit about my professional life, interests and hobbies. (Be prepar
         <br><strong>Zig</strong>
       </td>
       <td align="center" height="121" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="Haskell" width="48" height="48" style="max-width: 100%;"/>
-        <br><strong>Haskell</strong>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="Julia" width="48" height="48" style="max-width: 100%;"/>
+        <br><strong>Julia</strong>
       </td>
       <td align="center" height="121" width="100">
         <strong>Mojo</strong>
@@ -243,14 +239,13 @@ Now, here is a bit about my professional life, interests and hobbies. (Be prepar
       <td colspan="5" valign="top">
         - OCaml (Use: systems programming and some web development; Reasons: combines functional and imperative styles, supports procedural and object-oriented programming, has a strong type system, and offers fast compilation)<br>
         - Rust (Use: systems programming, game development and web development; Reasons: performance, security, and reliability)<br>
-        - Julia (Use: scientific computing; Reasons: performance (comparable to C), simplicity)<br>
         - Kubernetes and AWS (Use: cloud computing; Reasons: ease of deployment, scalability, and management) 
       </td>
       <td></td>
       <td colspan="4" valign="top">
         - Go (Use: systems programming; Reasons: efficient concurrency, simplicity, performance, cloud)<br>
         - Zig (Use: systems programming; Reasons: performance?)<br>
-        - Haskell (Use: functional programming)<br>
+        - Julia (Use: scientific computing; Reasons: performance (comparable to C), simplicity)<br>
         - Mojo (Use: AI)<br><br><br>
       </td>
     </tr>
