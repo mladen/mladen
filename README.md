@@ -193,7 +193,7 @@ Now, here is a bit about my professional life, interests and hobbies. (Be prepar
 <table>
   <thead>
     <tr>
-      <th colspan="5" align="center">Most likely</th>
+      <th colspan="4" align="center">Most likely</th>
       <th colspan="1" align="center"></th>
       <th colspan="4" align="center">Maybe</th>
     </tr>
@@ -236,7 +236,7 @@ Now, here is a bit about my professional life, interests and hobbies. (Be prepar
       </td>
     </tr>
     <tr>
-      <td colspan="5" valign="top">
+      <td colspan="4" valign="top">
         - OCaml (Use: systems programming and some web development; Reasons: combines functional and imperative styles, supports procedural and object-oriented programming, has a strong type system, and offers fast compilation)<br>
         - Rust (Use: systems programming, game development and web development; Reasons: performance, security, and reliability)<br>
         - Kubernetes and AWS (Use: cloud computing; Reasons: ease of deployment, scalability, and management) 
