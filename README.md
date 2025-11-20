@@ -14,7 +14,7 @@ My _personal life_ is filled with diverse roles: I'm a father, a husband, a son,
 
 When considering my career aspirations, I am drawn to fields that offer the opportunity to **contribute positively to the world**! I am particularly interested in areas such as:
 
-- **mathematics** (currently re-learning Linear Algebra - check out the [first 10 pages of my self-learning notebook](https://drive.google.com/file/d/1xnGnLHTG0R2OPtLmADXhx_KDQZT7r5ZS/view?usp=drive_link); soon I will be re-learning Calculus and Probability and learning Statistics and Logic)
+- **mathematics** (currently re-learning Linear Algebra - check out the [first 10 pages of my self-learning notebook](https://drive.google.com/file/d/1xnGnLHTG0R2OPtLmADXhx_KDQZT7r5ZS/view?usp=drive_link); soon I will be re-learning Calculus/Real Analysis and Probability and then learning Statistics and Logic)
 - **physics** (trying to find some time to work on graphics programming and simple game development that involves physics),
 - **chemistry** and **biology** (especially the intersection of the two, which is Biochemistry),
 - **biotechnology**,
