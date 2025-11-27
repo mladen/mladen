@@ -2,10 +2,10 @@
 
 My name is Mladen Krivaćević.
 
-For as long as I can remember, what I've wanted, probably more than anything - is to figure it all out. I've always been fascinated by how the world works, asking myself questions like, "Why are we here?", "What drives us and our actions?" etc.
+For as long as I can remember, what I've wanted, probably more than anything - is to figure it all out. I've always been fascinated by how the world works, asking myself questions like, "Why are we here?", "What drives us and our actions?", "Why are the laws of the universe the way they are?" etc. etc.
 
-This curiosity also pulls me toward _discovering and learning about the principles that shape the universe and the laws of nature_.<br>
-Besides that, I also want to know myself better. That's a whole other journey, but it's fascinating too. In short - I’d describe myself as an introvert, but I genuinely enjoy engaging with people who share similar interests, ideas, and aspirations.
+Besides that, I also want to know myself better. That's a whole other journey, but it's fascinating too.<br>
+On this note - I’d describe myself as an introvert, but I genuinely enjoy engaging with people who share similar interests, ideas, and aspirations.
 
 On a _practical side_, I've always wanted to know how things work, why they do what they do, and how they could be better. I am deeply passionate about learning about all those things and currently apply my skills as a software engineer. 
 
@@ -20,8 +20,8 @@ When considering my career aspirations, I am drawn to fields that offer the oppo
 - **chemistry** and **biology** (especially the intersection of the two, which is Biochemistry),
 - **biotechnology**,
 - **neuroscience**,
-- **philosophy** (currently reading a bit about Logic and Epistemology),
-- **psychology** (currently reading a bit about Cognitive Psychology) and
+- **philosophy**,
+- **psychology** and
 - **education** (homeschooling, unschooling, self-directed learning, etc.).,
 
 which are fields where the potential for beneficial impact is immense.
@@ -82,7 +82,7 @@ Now, here is a bit about my professional life, interests and hobbies. (Be prepar
     <tr>
       <td align="center" height="121" width="100">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="max-width: 100%;"/>
-          <br><strong>Javascript</strong>
+          <br><strong>JavaScript</strong>
       </td>
       <td align="center" height="121" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="48" height="48" alt="TypeScript" style="max-width: 100%;">
@@ -93,7 +93,7 @@ Now, here is a bit about my professional life, interests and hobbies. (Be prepar
         <br><strong>Vue</strong>
       </td>
       <td align="center" height="121" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" width="48" height="48" alt="VueJS" style="max-width: 100%;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" width="48" height="48" alt="Axios" style="max-width: 100%;">
         <br><strong>Axios</strong>
       </td>
       <td align="center" height="121" width="100">
@@ -105,7 +105,7 @@ Now, here is a bit about my professional life, interests and hobbies. (Be prepar
         <br><strong>Tailwind</strong>
       </td>
       <td align="center" height="121" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quasar/quasar-plain.svg" width="48" height="48" alt="Quasar" style="max-width: 100%;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quasar/quasar-plain.svg" width="48" height="48" alt="Quasar Framework" style="max-width: 100%;">
         <br><strong>Quasar Framework</strong>
       </td>
     </tr>
@@ -118,11 +118,11 @@ Now, here is a bit about my professional life, interests and hobbies. (Be prepar
   <tbody>
     <tr>
       <td align="center" height="121" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="Python" width="48" height="48" style="max-width: 100%;"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="48" height="48" style="max-width: 100%;"/>
         <br><strong>FastAPI</strong>
       </td>
       <td align="center" height="121" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Python" width="48" height="48" style="max-width: 100%; background-color: white; border-radius: 20%;"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="48" height="48" style="max-width: 100%; background-color: white; border-radius: 20%;"/>
         <br><strong>Flask</strong>
       </td>
       <td align="center" height="121" width="100">
@@ -148,7 +148,7 @@ Now, here is a bit about my professional life, interests and hobbies. (Be prepar
         <br><strong>C++</strong>
       </td>
       <td align="center" height="121" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" alt="C++" width="48" height="48" style="max-width: 100%;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" alt="CMake" width="48" height="48" style="max-width: 100%;"/>
         <br><strong>CMake</strong>
       </td>
       <td align="center" height="121" width="100">
@@ -160,7 +160,7 @@ Now, here is a bit about my professional life, interests and hobbies. (Be prepar
         <br><strong>OpenGL</strong>
       </td>
     </tr>
-    <tr style="border-top: 0px solid #ddd;">
+    <tr style="border-top: none;">
       <td align="center" height="121" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="Advanced SQL" width="48" height="48" style="max-width: 100%;"/>
         <br><strong>SQL (advanced)</strong>
@@ -170,7 +170,7 @@ Now, here is a bit about my professional life, interests and hobbies. (Be prepar
         <br><strong>Docker</strong>
       </td>
     </tr>
-    <tr style="border-top: 0px solid #ddd;">
+    <tr style="border-top: none;">
       <td align="center" height="121" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Electronics + Arduino" width="48" height="48" style="max-width: 100%;"/>
         <br><strong>Electronics + Arduino *</strong>
@@ -260,7 +260,7 @@ Now, here is a bit about my professional life, interests and hobbies. (Be prepar
         <br><strong>Julia</strong>
       </td>
       <td align="center" height="121" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/filamentphp/filamentphp-original.svg" alt="Julia" width="48" height="48" style="max-width: 100%; background-color: white; border-radius: 8px;"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/filamentphp/filamentphp-original.svg" alt="filamentphp" width="48" height="48" style="max-width: 100%; background-color: white; border-radius: 8px;"/>
         <br><strong>filamentphp</strong>
       </td>
     </tr>
@@ -302,11 +302,11 @@ Now, here is a bit about my professional life, interests and hobbies. (Be prepar
         <br><strong>VSCode</strong>
       </td>
       <td align="center" height="121" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" style="max-width: 100%;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Bash + Zsh" style="max-width: 100%;">
         <br><strong>Bash + Zsh</strong>
       </td>
       <td align="center" height="121" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="48" height="48" alt="Bash" style="max-width: 100%;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="48" height="48" alt="dbeaver" style="max-width: 100%;">
         <br><strong>dbeaver</strong>
       </td>
       <td align="center" height="121" width="100">
