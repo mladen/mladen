@@ -1,5 +1,7 @@
 # Hi there! :wave:
 
+_P.P. (pre scriptum): This pretty (and pretty long) README is the result of some serious procrastination on my part during evenings I had planned for fun personal projects. I should be working on those instead… but here we are._ :smile:
+
 My name is Mladen Krivaćević.
 
 For as long as I can remember, what I've wanted, probably more than anything - is to figure it all out. I've always been fascinated by how the world works, asking myself questions like, "Why are we here?", "What drives us and our actions?", "Why are the laws of the universe the way they are?" etc. etc.
@@ -117,6 +119,7 @@ Now, here is a bit about my professional life, interests and hobbies. (Be prepar
 <table>
   <tbody>
     <tr>
+      <td align="center" height="121" width="100">Python related</td>
       <td align="center" height="121" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="48" height="48" style="max-width: 100%;"/>
         <br><strong>FastAPI</strong>
@@ -142,7 +145,13 @@ Now, here is a bit about my professional life, interests and hobbies. (Be prepar
         <br><strong>PyTorch</strong>
       </td>
     </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
     <tr>
+      <td align="center" height="121" width="100">C/C++ related</td>
       <td align="center" height="121" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="max-width: 100%;"/>
         <br><strong>C++</strong>
@@ -160,7 +169,12 @@ Now, here is a bit about my professional life, interests and hobbies. (Be prepar
         <br><strong>OpenGL</strong>
       </td>
     </tr>
+  </tbody>
+</table>
+<table>
+  <tbody>
     <tr style="border-top: none;">
+      <td align="center" height="121" width="100">Databases, Containers etc. related</td>
       <td align="center" height="121" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="Advanced SQL" width="48" height="48" style="max-width: 100%;"/>
         <br><strong>SQL (advanced)</strong>
@@ -170,12 +184,23 @@ Now, here is a bit about my professional life, interests and hobbies. (Be prepar
         <br><strong>Docker</strong>
       </td>
     </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
     <tr style="border-top: none;">
+      <td align="center" height="121" width="100">Electronics related</td>
       <td align="center" height="121" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Electronics + Arduino" width="48" height="48" style="max-width: 100%;"/>
         <br><strong>Electronics + Arduino *</strong>
       </td>
     </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
     <tr>
       <td colspan="6">
           <li>Python (for data analysis, data science, machine learning, artificial intelligence, web development, game development, systems programming, embedded systems, robotics, automation, etc.)
