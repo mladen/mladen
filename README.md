@@ -118,8 +118,10 @@ Now, here is a bit about my professional life, interests and hobbies. (Be prepar
 
 <table>
   <tbody>
+    <tr colspan="6">
+      <td colspan="6" align="center" width="100">Python</td>
+    </tr>
     <tr>
-      <td align="center" height="121" width="100">Python related</td>
       <td align="center" height="121" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="48" height="48" style="max-width: 100%;"/>
         <br><strong>FastAPI</strong>
@@ -145,13 +147,23 @@ Now, here is a bit about my professional life, interests and hobbies. (Be prepar
         <br><strong>PyTorch</strong>
       </td>
     </tr>
+    <tr>
+      <td colspan="6" valign="top">
+        - FastAPI (for building APIs and web applications; Reasons: performance, ease of use, modern features)<br>
+        - Flask (for building web applications; Reasons: simplicity, flexibility, large community)<br>
+        - Numpy + Pandas (for data science, machine learning, artificial intelligence; Reasons: powerful libraries for data manipulation and analysis)<br>
+        - Scikitlearn (for machine learning; Reasons: easy to use, wide range of algorithms)<br>
+        - PyTorch (for deep learning; Reasons: dynamic computation graph, strong community support)
+      </td>
   </tbody>
 </table>
 
 <table>
   <tbody>
+    <tr colspan="4">
+      <td colspan="4" align="center" width="100">C/C++</td>
+    </tr>
     <tr>
-      <td align="center" height="121" width="100">C/C++ related</td>
       <td align="center" height="121" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="max-width: 100%;"/>
         <br><strong>C++</strong>
@@ -169,31 +181,12 @@ Now, here is a bit about my professional life, interests and hobbies. (Be prepar
         <br><strong>OpenGL</strong>
       </td>
     </tr>
-  </tbody>
-</table>
-<table>
-  <tbody>
-    <tr style="border-top: none;">
-      <td align="center" height="121" width="100">Databases, Containers etc. related</td>
-      <td align="center" height="121" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="Advanced SQL" width="48" height="48" style="max-width: 100%;"/>
-        <br><strong>SQL (advanced)</strong>
-      </td>
-      <td align="center" height="121" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="max-width: 100%;"/>
-        <br><strong>Docker</strong>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <tbody>
-    <tr style="border-top: none;">
-      <td align="center" height="121" width="100">Electronics related</td>
-      <td align="center" height="121" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Electronics + Arduino" width="48" height="48" style="max-width: 100%;"/>
-        <br><strong>Electronics + Arduino *</strong>
+    <tr>
+      <td colspan="4" valign="top">
+        - C++ (for systems programming, game development and embedded systems; Reasons: performance, control over system resources, object-oriented programming)<br>
+        - CMake (for build automation; Reasons: cross-platform, easy to use)<br>
+        - gcc (for compiling C and C++ code; Reasons: widely used, supports various standards)<br>
+        - OpenGL (for graphics programming; Reasons: cross-platform, hardware-accelerated)
       </td>
     </tr>
   </tbody>
@@ -202,40 +195,32 @@ Now, here is a bit about my professional life, interests and hobbies. (Be prepar
 <table>
   <tbody>
     <tr>
-      <td colspan="6">
-          <li>Python (for data analysis, data science, machine learning, artificial intelligence, web development, game development, systems programming, embedded systems, robotics, automation, etc.)
-            <ul style="list-style-type: circle">
-                <li>
-                  my <a href="https://github.com/mladen/practicing-python">practicing-python</a> repository - a repository where I'm practicing Python by solving various problems from different sources (like <a href="https://www.hackerrank.com/">HackerRank</a>, <a href="https://www.codewars.com/">Codewars</a>, <a href="https://www.codingame.com/">CodinGame</a>)
-                </li>
-            </ul>
-          </li>
-          <li>Numpy + Pandas (for data science, machine learning, artificial intelligence)
-            <ul style="list-style-type: circle">
-                <li>
-                  my <a href="https://github.com/mladen/practicing-da-ds-ml-ai">practicing-da-ds-ml-ai</a> repository - a repository where I'm practicing Machine Learning and Artificial Intelligence by going through various tutorials, creating my own projects etc.
-                </li>
-            </ul>
-          </li>
-          <li>C and C++ (for systems programming, game development and embedded systems)
-            <ul style="list-style-type: circle">
-                <li>
-                  my <a href="https://github.com/mladen/practicing-c-and-cpp">practicing-c-and-cpp</a> repository - a repository where I'm practicing C and C++ by solving various problems, learning about game dev, embedded systems, etc.
-                </li>
-            </ul>
-          </li>
-          <li>SQL + MySQL (for databases and data science)
-            <ul style="list-style-type: circle">
-              <li>
-                my <a href="https://github.com/mladen/practicing-da-ds-ml-ai">practicing-da-ds-ml-ai</a> repository - part of this repo contains SQL and MySQL code that I've created while learning about databases and data science
-              </li>
-            </ul>
-          </li>
-          <li>Docker (for containerization)</li>
-          <li>Electronics * + Arduino * (I'm a beginner; for now I'm playing around with Arduino using the Elegoo's "The Most Complete Starter Kit" - it's really fun!)</li>
-        </ul>
-        <br>
-        * not planning to go too deep here, for now
+      <td colspan="2" align="center" width="100">Databases, Containers etc.</td>
+    </tr>
+    <tr style="border-top: none;">
+      <td align="center" height="121" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="Advanced SQL" width="48" height="48" style="max-width: 100%;"/>
+        <br><strong>SQL (advanced)</strong>
+      </td>
+      <td colspan="2" valign="center">
+        - SQL + MySQL (for databases and data science; Reasons: managing and analyzing data efficiently)<br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td colspan="1" align="center" width="100">Electronics</td>
+    </tr>
+    <tr style="border-top: none;">
+      <td align="center" height="121" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Electronics + Arduino" width="48" height="48" style="max-width: 100%;"/>
+        <br><strong>Electronics + Arduino *</strong>
+      </td>
+      <td valign="center">
+        - Electronics * + Arduino * (I'm a beginner; for now I'm playing around with Arduino using the Elegoo's "The Most Complete Starter Kit" - it's really fun!; Reasons: hands-on experience with electronics and microcontrollers)
       </td>
     </tr>
   </tbody>
