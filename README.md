@@ -212,7 +212,7 @@ Now, here is a bit about my professional life, interests and hobbies. (Be prepar
 <table>
   <tbody>
     <tr>
-      <td colspan="1" align="center" width="100">Electronics</td>
+      <td colspan="2" align="center" width="100">Electronics</td>
     </tr>
     <tr style="border-top: none;">
       <td align="center" height="121" width="100">
